@@ -1,0 +1,21 @@
+1. What we'll be building
+  - Purpose of this learning path
+  - Defining serverless
+  - Navigating this learning path
+  - AWS Serverless Services
+  - AWS Serverless Tools
+    - CloudFormation
+    - Serverless Application Model (SAM)
+    - Cloud Development Kit (CDK)
+  - Third party
+    - Serverless Framework
+    - Terraform
+    - Pulumi
+    - Claudia.js
+    - Zappa
+    - Architect
+  - Demo Application Overview
+    - npm install aws-cdk -g
+    - aws --version
+    - sam --version
+    - docker -v
