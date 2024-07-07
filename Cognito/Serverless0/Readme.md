@@ -22,3 +22,5 @@
 2. Benefits and Challenges of Serverless
   - Serverless Realities
   - Understanding the benefits of serverless
+  - Serverless economics
+  
