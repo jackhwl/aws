@@ -4,3 +4,10 @@
   - Approaches for defining infrastructure
     - Procedural Approach
     - Declarative Approach
+  - Infrastructure as Code on AWS
+    - AWS CloudFormation
+    - AWS Serverless Application Model (SAM)
+    - - Terraform by HashiCorp
+    - - Pulumi
+    - - Serverless Framework
+    - AWS Cloud Development Kit (CDK)
