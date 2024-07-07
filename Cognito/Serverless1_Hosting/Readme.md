@@ -27,4 +27,4 @@
 2. Utilzing amaxon cloudfront
   - amazon cloudfront overview
   - Creating a CloudFront Distribution
-  
+  - Configuring and Invalidating CloudFront
