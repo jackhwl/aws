@@ -11,3 +11,5 @@
     - - Pulumi
     - - Serverless Framework
     - AWS Cloud Development Kit (CDK)
+  - Using AWS CloudFormation
+    - create and delete wordpressblog
