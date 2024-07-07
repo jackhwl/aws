@@ -26,3 +26,5 @@
           --metadata-directive REPLACE --acl public-read
 2. Utilzing amaxon cloudfront
   - amazon cloudfront overview
+  - Creating a CloudFront Distribution
+  
