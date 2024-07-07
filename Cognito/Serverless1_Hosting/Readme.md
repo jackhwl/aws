@@ -24,3 +24,5 @@
           --cache-control 'max-age=604800, public' \
           --recursive \
           --metadata-directive REPLACE --acl public-read
+2. Utilzing amaxon cloudfront
+  - amazon cloudfront overview
