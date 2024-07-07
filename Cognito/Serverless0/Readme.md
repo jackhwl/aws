@@ -19,3 +19,6 @@
     - aws --version
     - sam --version
     - docker -v
+2. Benefits and Challenges of Serverless
+  - Serverless Realities
+  - Understanding the benefits of serverless
