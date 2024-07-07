@@ -15,6 +15,7 @@
     - Zappa
     - Architect
   - Demo Application Overview
+    - node: 14.16.0
     - npm install aws-cdk -g
     - aws --version
     - sam --version

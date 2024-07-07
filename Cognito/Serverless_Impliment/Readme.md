@@ -1,2 +1,3 @@
 - What we'll be doing
 - Working with the course repository
+- Where we are starting
