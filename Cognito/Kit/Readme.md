@@ -13,3 +13,6 @@
     - AWS Cloud Development Kit (CDK)
   - Using AWS CloudFormation
     - create and delete wordpressblog
+3. Programmatic Infrastructure with the AWS CDK
+  - Revisiting the Use Case
+  - CDK Overview
