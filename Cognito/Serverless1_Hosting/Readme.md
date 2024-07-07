@@ -2,3 +2,4 @@
   - Understanding hosting needs
   - Uploading a react app to amazon s3
     - build react app
+    - create bucket in s3
