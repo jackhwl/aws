@@ -29,3 +29,9 @@
     - Update
     - Diff
     - Synth
+4. Getting Started with the CDK
+  - Installing the CDK
+    - Node.js npm AWS credentials
+    - aws configure
+    - npm i aws-cdk -g
+    - cdk version
