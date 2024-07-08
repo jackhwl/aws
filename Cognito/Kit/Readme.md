@@ -16,3 +16,9 @@
 3. Programmatic Infrastructure with the AWS CDK
   - Revisiting the Use Case
   - CDK Overview
+  - Structure of a CDK Project
+    - Resource and Identifier (Logical ID)
+    - Construct is a logical grouping of one or more Resources, are building blocks within the CDK
+    - ![CDK Structure](./stack.png)
+    - stack and enviorments
+    
