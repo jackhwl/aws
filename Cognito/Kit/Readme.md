@@ -21,4 +21,11 @@
     - Construct is a logical grouping of one or more Resources, are building blocks within the CDK
     - ![CDK Structure](./stack.png)
     - stack and enviorments
-    
+  - CDK Workflow
+    - Init
+    - Bootstrap
+    - Synth
+    - Deploy
+    - Update
+    - Diff
+    - Synth
