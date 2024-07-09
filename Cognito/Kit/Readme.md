@@ -35,3 +35,12 @@
     - aws configure
     - npm i aws-cdk -g
     - cdk version
+  - CDK CLI Commands
+    - cdk init TEMPLATE --language LANGUAGE (create a new CDK project)
+    - cdk bootstrap (Bootstrap the AWS environment)
+    - cdk list (list the stacks in the CDK app)
+    - cdk deploy （deploy a CDK stack）
+    - cdk destroy （delete the stack）
+    - cdk docs （Launch the CDK documentation）
+    - cdk diff （Compares local and deployed stack）
+    - cdk synth （Generates CloudFormation templates）
