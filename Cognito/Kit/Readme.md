@@ -44,3 +44,4 @@
     - cdk docs （Launch the CDK documentation）
     - cdk diff （Compares local and deployed stack）
     - cdk synth （Generates CloudFormation templates）
+  - Reviewing the CDK Documentation
