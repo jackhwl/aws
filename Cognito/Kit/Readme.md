@@ -45,3 +45,6 @@
     - cdk diff （Compares local and deployed stack）
     - cdk synth （Generates CloudFormation templates）
   - Reviewing the CDK Documentation
+  - Launching Infrastructure Using the CDK
+    - cdk init --help
+    - cdk init sample-app --language typescript
