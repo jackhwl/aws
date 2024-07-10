@@ -52,3 +52,5 @@
     - cdk synth | less
     - cdk list
     - cdk deploy
+  - Deleting Infrastructure Using the CDK
+    - cdk destroy
