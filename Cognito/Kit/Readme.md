@@ -54,3 +54,5 @@
     - cdk deploy
   - Deleting Infrastructure Using the CDK
     - cdk destroy
+  - Reviewing Sample CDK Applications
+    - https://github.com/aws-samples/aws-cdk-examples
