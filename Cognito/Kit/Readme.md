@@ -48,3 +48,7 @@
   - Launching Infrastructure Using the CDK
     - cdk init --help
     - cdk init sample-app --language typescript
+    - cdk bootstrap
+    - cdk synth | less
+    - cdk list
+    - cdk deploy
