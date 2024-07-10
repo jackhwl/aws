@@ -56,3 +56,4 @@
     - cdk destroy
   - Reviewing Sample CDK Applications
     - https://github.com/aws-samples/aws-cdk-examples
+  - Moving Forward with the CDK
