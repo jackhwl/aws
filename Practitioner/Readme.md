@@ -4,3 +4,4 @@
 ## Foundations of Cloud Computing
   - Getting your head in the Cloud
   - Introducing Cloud Computing and Deployment Models
+  - Exploring Regioins and Availability Zones
