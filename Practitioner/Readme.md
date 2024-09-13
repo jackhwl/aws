@@ -6,3 +6,4 @@
   - Introducing Cloud Computing and Deployment Models
   - Exploring Regioins and Availability Zones
   - Reviewing Edge Locations and Local Zones
+  - Introducing the Frameworks
