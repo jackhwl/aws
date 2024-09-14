@@ -8,3 +8,4 @@
   - Reviewing Edge Locations and Local Zones
   - Introducing the Frameworks
   - Meeting the AWS Management Console and Accessing AWS
+    - Root User
