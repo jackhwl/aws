@@ -9,3 +9,4 @@
   - Introducing the Frameworks
   - Meeting the AWS Management Console and Accessing AWS
     - Root User
+    - The AWS Command Line Interface (CLIj)
