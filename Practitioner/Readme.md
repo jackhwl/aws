@@ -10,3 +10,5 @@
   - Meeting the AWS Management Console and Accessing AWS
     - Root User
     - The AWS Command Line Interface (CLIj)
+  - Demo： Exploring Your Amazon Web Services （AWS） Account
+    - Setup Root User MFA
