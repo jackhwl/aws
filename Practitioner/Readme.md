@@ -14,4 +14,4 @@
     - Setup Root User MFA
     - IAM User Account ID: 186549181985
   - Foundations of Cloud Computing Exam Tips
-  
+  - Foundations of Cloud Computing Quiz
