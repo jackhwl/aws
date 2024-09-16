@@ -13,3 +13,5 @@
   - Demo： Exploring Your Amazon Web Services （AWS） Account
     - Setup Root User MFA
     - IAM User Account ID: 186549181985
+  - Foundations of Cloud Computing Exam Tips
+  
