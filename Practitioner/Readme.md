@@ -17,3 +17,6 @@
   - Foundations of Cloud Computing Quiz
 ## Compute Technology and Services
   - Compute: The Bigger Picture
+    - On-Demand
+    - Spot instance
+    - Dedicated Hosts
