@@ -19,3 +19,4 @@
   - Compute: The Bigger Picture
     - On-Demand
     - Spot instance
+    - Dedicated Hosts
