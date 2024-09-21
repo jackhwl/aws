@@ -20,3 +20,4 @@
     - On-Demand
     - Spot instance
     - Dedicated Hosts
+    - Reserved Instances
