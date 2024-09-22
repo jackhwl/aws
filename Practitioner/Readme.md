@@ -21,3 +21,4 @@
     - Spot instance
     - Dedicated Hosts
     - Reserved Instances
+    - Saving Plans
