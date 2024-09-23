@@ -24,4 +24,8 @@
     - Saving Plans
   - Reviewing EC2 Features
     - Load Balancing 
+      - Classic， Application， Gateway， Network
     - Auto Scaling
+    - Compute Optimizer
+      - horizoontal scaling
+      - vertical scaling
