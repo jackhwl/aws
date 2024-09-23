@@ -24,3 +24,4 @@
     - Saving Plans
   - Reviewing EC2 Features
     - Load Balancing 
+    - Auto Scaling
