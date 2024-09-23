@@ -22,3 +22,5 @@
     - Dedicated Hosts
     - Reserved Instances
     - Saving Plans
+  - Reviewing EC2 Features
+    - Load Balancing 
