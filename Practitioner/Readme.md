@@ -29,3 +29,4 @@
     - Compute Optimizer
       - horizoontal scaling
       - vertical scaling
+    - Demo： Exploring Compute Services - EC2 in Action
