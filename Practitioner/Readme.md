@@ -31,3 +31,9 @@
       - vertical scaling
     - Demo： Exploring Compute Services - EC2 in Action
     - Containers: The Bigger Picture
+    - Serveless Services: The Bigger Picture
+      - Lambda: 
+        - Real-Time File Processing
+        - Sending Email Notifications
+        - Backend Business Logic
+
