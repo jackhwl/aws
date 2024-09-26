@@ -32,8 +32,10 @@
     - Demo： Exploring Compute Services - EC2 in Action
     - Containers: The Bigger Picture
     - Serveless Services: The Bigger Picture
-      - Lambda: 
+      - Lambda: < 15 Minutes
         - Real-Time File Processing
         - Sending Email Notifications
         - Backend Business Logic
-
+      - Fargate: > 15 Minutes
+        - Message-Driven Workloads
+        - Event-Driven and Scheduled Workloads
