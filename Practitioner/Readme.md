@@ -39,3 +39,5 @@
       - Fargate: > 15 Minutes
         - Message-Driven Workloads
         - Event-Driven and Scheduled Workloads
+    - Understanding Serverless Services Pricing and Features
+      - Lambda Pricing 15min,3min
