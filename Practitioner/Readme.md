@@ -40,4 +40,5 @@
         - Message-Driven Workloads
         - Event-Driven and Scheduled Workloads
     - Understanding Serverless Services Pricing and Features
-      - Lambda Pricing 15min,3min
+      - Lambda Pricing 15min,3min, 1 million free amount requests a month
+      - Fargate 
