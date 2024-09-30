@@ -42,3 +42,5 @@
     - Understanding Serverless Services Pricing and Features
       - Lambda Pricing 15min,3min, 1 million free amount requests a month
       - Fargate 
+    - Demo: Exploring Compute Services - Lambda in Action
+    
