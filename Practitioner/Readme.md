@@ -43,4 +43,4 @@
       - Lambda Pricing 15min,3min, 1 million free amount requests a month
       - Fargate 
     - Demo: Exploring Compute Services - Lambda in Action
-    
+    - Create a Lambda Function Using the AWS Management Console
