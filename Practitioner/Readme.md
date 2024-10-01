@@ -44,3 +44,6 @@
       - Fargate 
     - Demo: Exploring Compute Services - Lambda in Action
     - Create a Lambda Function Using the AWS Management Console
+    - Introducting Additional Compute Services
+      - Outposts
+
