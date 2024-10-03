@@ -48,4 +48,5 @@
       - Outposts
       - Lightsail
       - Batch
+      - Wavelength
 
