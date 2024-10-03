@@ -47,4 +47,5 @@
     - Introducting Additional Compute Services
       - Outposts
       - Lightsail
+      - Batch
 
