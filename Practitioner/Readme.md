@@ -59,3 +59,9 @@
         - Application
         - Network
       - ECS vs EKS
+      - Fargate: 
+        - serverless containers
+        - no upfront costs, pay only for resources used.
+      - Lambda: 
+        - 1 million free requests a moonth
+        - 15 minutes timeout
