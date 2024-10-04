@@ -49,4 +49,12 @@
       - Lightsail
       - Batch
       - Wavelength
-
+    - Compute Technology and Services Exam Tips
+      - Scaling Types and Benefits
+        - Horizontal: scale out, cross AZs
+        - Vertical: scale up
+      - Load Balancer Types
+        - Classic
+        - Gateway
+        - Application
+        - Network
