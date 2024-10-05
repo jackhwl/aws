@@ -6,3 +6,4 @@
 ## Serverless Authentication and Authorization with Amazon Cognito
 ## Implementing Authentication for a Serverless HTTP API on AWS
 ## AWS Certified Cloud Practitioner (CLF-C02): Cloud Foundations and Compute
+## Cloud Adooption Framewoork E-Book
