@@ -7,3 +7,4 @@
 ## Implementing Authentication for a Serverless HTTP API on AWS
 ## AWS Certified Cloud Practitioner (CLF-C02): Cloud Foundations and Compute
 ## Cloud Adooption Framewoork E-Book
+## AWS Certified Cloud Practitioner (CLF-C02): Storage, Networking, and Databases
