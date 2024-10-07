@@ -9,4 +9,11 @@
     - security
     - versatility
     - data, key, metadata
-
+  - Exploring S3 Storage Classes
+    - Standard
+    - Intelligent-Tiering
+    - Standard-Infrequent Access
+    - One Zone-Infrequent Access
+    - Glacier Instant Retrieval
+    - Glacier Flexible Retrieval
+    - Glacier Deep Archive
