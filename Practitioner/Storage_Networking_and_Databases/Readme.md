@@ -17,3 +17,4 @@
     - Glacier Instant Retrieval
     - Glacier Flexible Retrieval
     - Glacier Deep Archive
+  - Demo: Exploring Storage Services -S3 in Action
