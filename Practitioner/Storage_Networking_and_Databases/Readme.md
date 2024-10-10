@@ -20,5 +20,18 @@
   - Demo: Exploring Storage Services -S3 in Action
   - Creating S3 Buckets with Versioning and Encryption
   - Introducing Additional Storage Services
-    - FSx
+    - FSx: fully managed windoows file system
     - Elastic Disaster Recoovery
+  - Amazon Elastic Block Store(EBS)
+    - Persistent Storage
+    - Highly Available and Durable
+    - Scalable 
+    - Encrypted
+    - Snapshot
+    - EBS Volume Types
+      - SSD
+        - General purpose SSD
+        - Provisioned IOPS SSD
+      - HDD
+        - Throughput Optimized HDD
+        - Cold HDD
