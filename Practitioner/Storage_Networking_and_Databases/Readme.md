@@ -41,4 +41,6 @@
     - Tape Gateway
     - FSx File Gateway
   - Overview of AWS Backup
-  
+## Content Delivery and Networking Technology and Services
+  - Amazon CloudFront
+  - Content Delivery: The Bigger Picture
