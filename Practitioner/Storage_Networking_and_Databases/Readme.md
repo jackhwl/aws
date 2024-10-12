@@ -40,4 +40,5 @@
     - Volume Gateway
     - Tape Gateway
     - FSx File Gateway
-
+  - Overview of AWS Backup
+  
