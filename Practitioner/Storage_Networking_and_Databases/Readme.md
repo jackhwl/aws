@@ -42,5 +42,6 @@
     - FSx File Gateway
   - Overview of AWS Backup
 ## Content Delivery and Networking Technology and Services
-  - Amazon CloudFront
+  - Amazon CloudFront: use edge locations to cache contents
   - Content Delivery: The Bigger Picture
+  - AWS Global Accelerator: use edge locations to find an optimal pathway to the nearest regional endpoint
