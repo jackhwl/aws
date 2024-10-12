@@ -35,3 +35,9 @@
       - HDD
         - Throughput Optimized HDD
         - Cold HDD
+  - AWS Storage Gateway
+    - S3 File Gateway
+    - Volume Gateway
+    - Tape Gateway
+    - FSx File Gateway
+
