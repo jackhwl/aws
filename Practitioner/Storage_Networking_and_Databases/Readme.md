@@ -45,3 +45,13 @@
   - Amazon CloudFront: use edge locations to cache contents
   - Content Delivery: The Bigger Picture
   - AWS Global Accelerator: use edge locations to find an optimal pathway to the nearest regional endpoint
+  - Networking: The Bigger Picture
+    - Amazon VPC
+      - Public subnet
+      - Private subnet
+      - Internet Gateways
+      - Route Tables
+      - Security Group: stateful
+      - Network access control list (NACL): stateless
+      
+
