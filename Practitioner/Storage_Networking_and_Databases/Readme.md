@@ -63,3 +63,14 @@
         - Client VPN
     - Content Delivery and Networking Exam Tips
     - Content Delivery and Networking Technology and Services Quiz
+## Database Technology and Services
+  - Databases: The Bigger Picture
+    - Relational Databases:
+      - Amazon RDS
+    - NoSQL Databases
+      - DynamoDB
+    - In-Memory Databases
+      - Amazon ElastiCache
+      - Amazon MemoryDB for Redis
+    - Graph Databases
+      - Amazon Neptune: Fraud Detection, Recommendation systems, Drug Discovery
