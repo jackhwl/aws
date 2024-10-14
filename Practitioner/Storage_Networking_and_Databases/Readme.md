@@ -53,5 +53,5 @@
       - Route Tables
       - Security Group: stateful
       - Network access control list (NACL): stateless
-      
+    - Demo: Exploring Networking Services - VPC in Action
 
