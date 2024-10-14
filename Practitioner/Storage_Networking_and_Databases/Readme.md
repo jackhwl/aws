@@ -54,4 +54,6 @@
       - Security Group: stateful
       - Network access control list (NACL): stateless
     - Demo: Exploring Networking Services - VPC in Action
+    - DNS: The Bigger Picture
+      - Amazon Route 53
 
