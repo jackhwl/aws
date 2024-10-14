@@ -79,4 +79,8 @@
     - AWS Schema Conversion Tool (SCT)
   - Amazon DynamoDB
     - Web Apps, Gaming, IOT
-    
+  - Overview of Memory-Based Databases in AWS
+   - Amazon MemoryDB for Redis
+     - Performance
+     - Data Durability
+
