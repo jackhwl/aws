@@ -61,3 +61,5 @@
       - AWS VPN
         - Site-to-Site VPN
         - Client VPN
+    - Content Delivery and Networking Exam Tips
+    - Content Delivery and Networking Technology and Services Quiz
