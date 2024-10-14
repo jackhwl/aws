@@ -77,3 +77,6 @@
   - Understanding AWS Database Migration Services
     - AWS Database Migration Service (DMS)
     - AWS Schema Conversion Tool (SCT)
+  - Amazon DynamoDB
+    - Web Apps, Gaming, IOT
+    
