@@ -8,3 +8,5 @@
     - aws s3 cp file.txt s3://jackbucket-9196657416
     - aws s3 ls s3://jackbucket-9196657416
     - aws s3 mb help
+  - Demo： Using AWS Cloud9
+    
