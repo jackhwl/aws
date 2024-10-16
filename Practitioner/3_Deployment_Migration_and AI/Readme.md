@@ -11,3 +11,11 @@
   - Demo： Using AWS Cloud9
   - Understanding AWS CodeArtifact
     - Central Artifact Repository
+  - Decoupling Application Components
+    - Coupling
+    - Tight Coupling
+    - Loose Coupling
+    - Microservices
+      - SQS
+      - SNS
+      - EventBridge 
