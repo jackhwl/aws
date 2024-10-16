@@ -1,4 +1,10 @@
 ## Development, Messaging, and Deployment Technology and Services
   - What is CI/CD?
   - AWS Development Tools
-  
+  - Demo： Working with AWS CloudShell and the AWS Command Line Interface （AWS CLI）
+    - aws --version
+    - aws s3 mb s3://jackbucket-9196657416
+    - aws s3 ls
+    - aws s3 cp file.txt s3://jackbucket-9196657416
+    - aws s3 ls s3://jackbucket-9196657416
+    - aws s3 mb help
