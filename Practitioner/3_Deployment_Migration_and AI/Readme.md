@@ -18,4 +18,8 @@
     - Microservices
       - SQS
       - SNS
-      - EventBridge 
+      - EventBridge
+  - Introducing Amazon Simple Notification Service (SNS)
+    - SMS text message or email
+    - A Pub-sub Model
+    - A topic is an access point, allowing subscribers to receive notifications.
