@@ -30,5 +30,6 @@
     - Guaranteed to be processed at least once.
   - Standard and FIFO Queues
   - Short Polling vs Long Polling 
-  
+  - What is Amazon simple Email Service (SES)?
+    - richly formatted HTML emails vs SNS (plain text emails)
     
