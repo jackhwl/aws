@@ -29,5 +29,6 @@
     - Messages are processed asynchronously.
     - Guaranteed to be processed at least once.
   - Standard and FIFO Queues
+  - Short Polling vs Long Polling 
   
     
