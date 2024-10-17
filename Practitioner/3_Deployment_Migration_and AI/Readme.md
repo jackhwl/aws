@@ -23,3 +23,10 @@
     - SMS text message or email
     - A Pub-sub Model
     - A topic is an access point, allowing subscribers to receive notifications.
+  - Introducing Amazon Simple Queue Service (SQS)
+    - SQS is pull-based
+    - Multiple components can add and consume messages.
+    - Messages are processed asynchronously.
+    - Guaranteed to be processed at least once.
+    
+    
