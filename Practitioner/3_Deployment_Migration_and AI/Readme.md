@@ -38,4 +38,5 @@
     - Rules match events and route them to the correct target.
     - Targets respond by taking some action, like sendind an SNS notification.
     - Scheduled events let us schedule an action in advance, e.g. run a process once a week or month.
-    
+  - Understanding Step functions
+  
