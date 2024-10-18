@@ -39,4 +39,6 @@
     - Targets respond by taking some action, like sendind an SNS notification.
     - Scheduled events let us schedule an action in advance, e.g. run a process once a week or month.
   - Understanding Step functions
-  
+  - Deploying Infrastructure as Code with AWS CloudFormation
+    - Manage, configure, and provision your AWS infrastructure as code.
+    
