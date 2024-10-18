@@ -41,4 +41,5 @@
   - Understanding Step functions
   - Deploying Infrastructure as Code with AWS CloudFormation
     - Manage, configure, and provision your AWS infrastructure as code.
-    
+  - What is AWS Elastic Beanstalk?
+    - Deploys and scales your web applications
