@@ -45,3 +45,5 @@
     - Deploys and scales your web applications
   - Demo: Deploying an Application Using Elastic Beanstalk
     - load template replacinng load configuration
+  - Demo: Using X-Ray to Identify Performance Issues
+  
