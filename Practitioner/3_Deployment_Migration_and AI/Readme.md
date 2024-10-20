@@ -62,4 +62,5 @@
   - AWS DataSync
   - Understanding AWS Application Discovery Service
   - Introducing AWS Application Migration Service
+  - Discovering AWS MIgration Hub
   
