@@ -60,4 +60,5 @@
   - Exploring the AWS Transfer Family
     - SFTP, AS2, FTPS, FTP
   - AWS DataSync
+  - Understanding AWS Application Discovery Service
   
