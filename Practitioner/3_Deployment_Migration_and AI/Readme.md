@@ -57,3 +57,5 @@
   - Identifying Database Migration Tools
     - AWS Database Migration Service (AWS DMS)
     - AWS Schema Conversion Tool (AWS SCT)
+  - Exploring the AWS Transfer Family
+    - SFTP, AS2, FTPS, FTP
