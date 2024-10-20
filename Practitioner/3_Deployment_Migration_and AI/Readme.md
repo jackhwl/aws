@@ -54,3 +54,6 @@
     - Snowball Edge 10TB+process
     - Snowmobile 10PB
     - Snowcone 14TB
+  - Identifying Database Migration Tools
+    - AWS Database Migration Service (AWS DMS)
+    - AWS Schema Conversion Tool (AWS SCT)
