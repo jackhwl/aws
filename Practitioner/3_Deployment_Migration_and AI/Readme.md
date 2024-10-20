@@ -61,4 +61,5 @@
     - SFTP, AS2, FTPS, FTP
   - AWS DataSync
   - Understanding AWS Application Discovery Service
+  - Introducing AWS Application Migration Service
   
