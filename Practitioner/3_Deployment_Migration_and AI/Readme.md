@@ -63,4 +63,4 @@
   - Understanding AWS Application Discovery Service
   - Introducing AWS Application Migration Service
   - Discovering AWS MIgration Hub
-  
+  - Migration and Transfer Exam Tips
