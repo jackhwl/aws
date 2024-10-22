@@ -70,3 +70,5 @@
     - Kinesis Stream: enables you to collect, process, and analyze streaming data in real time.
   - Exploring Kinesis Data Firehose
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
+  - What is Amazon Athena?
+    
