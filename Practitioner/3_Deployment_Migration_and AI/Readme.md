@@ -71,4 +71,6 @@
   - Exploring Kinesis Data Firehose
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
   - What is Amazon Athena?
+  - Demo: Using Athena to Query Data
+    - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
     
