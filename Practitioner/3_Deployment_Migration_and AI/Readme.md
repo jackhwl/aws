@@ -73,4 +73,5 @@
   - What is Amazon Athena?
   - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
-  - Introducing AW Glue
+  - Introducing AWS Glue
+  - Exploring AWS Data Exchange
