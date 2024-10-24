@@ -75,3 +75,4 @@
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
   - Exploring AWS Data Exchange
+  - Understanding Amazon Elastic Map Reduce (EMR)
