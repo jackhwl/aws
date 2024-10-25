@@ -76,3 +76,7 @@
   - Introducing AWS Glue
   - Exploring AWS Data Exchange
   - Understanding Amazon Elastic Map Reduce (EMR)
+  - What is Amazon OpenSearch？
+    - Elasticsearch Service
+    - Fully managed Elasticsearch Service
+
