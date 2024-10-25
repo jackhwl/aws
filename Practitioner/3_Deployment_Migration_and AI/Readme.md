@@ -79,4 +79,6 @@
   - What is Amazon OpenSearch？
     - Elasticsearch Service
     - Fully managed Elasticsearch Service
-
+  - Exploring Managed Streaming for Apache Kafka （Amazon MSK）
+    - What is Apache Kafka？
+      - Build real-time data streaming pipelines
