@@ -82,3 +82,5 @@
   - Exploring Managed Streaming for Apache Kafka （Amazon MSK）
     - What is Apache Kafka？
       - Build real-time data streaming pipelines
+  - Understanding Amazon QuickSight
+    - Business analytics service
