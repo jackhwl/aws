@@ -86,4 +86,5 @@
     - Business analytics service
   - Machine Learning With Amazon SageMaker
     - A Fully Managed ML Platform
-    
+  - What is Amazon Kendra?
+    - An Intelligent Search Service
