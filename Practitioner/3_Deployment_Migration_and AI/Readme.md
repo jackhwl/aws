@@ -88,3 +88,5 @@
     - A Fully Managed ML Platform
   - What is Amazon Kendra?
     - An Intelligent Search Service
+  - Understanding Amazon Lex
+    - Builds conversational chatbots
