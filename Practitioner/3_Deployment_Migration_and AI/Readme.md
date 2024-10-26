@@ -84,3 +84,6 @@
       - Build real-time data streaming pipelines
   - Understanding Amazon QuickSight
     - Business analytics service
+  - Machine Learning With Amazon SageMaker
+    - A Fully Managed ML Platform
+    
