@@ -90,3 +90,5 @@
     - An Intelligent Search Service
   - Understanding Amazon Lex
     - Builds conversational chatbots
+  - Demo: Using Amazon Polly
+    - Deep Learning: Add natural sounding speech to your applications
