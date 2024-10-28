@@ -100,4 +100,4 @@
     - Transcribe: is a speech-to-text service.
     - Translate: is a language tranlation service.
   - Demo: Using Amazon Transcribe
-  
+  - Demo: Amazon Rekognition in Action
