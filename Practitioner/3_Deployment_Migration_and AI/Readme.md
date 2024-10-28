@@ -101,3 +101,4 @@
     - Translate: is a language tranlation service.
   - Demo: Using Amazon Transcribe
   - Demo: Amazon Rekognition in Action
+  - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 1
