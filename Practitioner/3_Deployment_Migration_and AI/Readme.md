@@ -99,3 +99,5 @@
     - Textract: extracts information from documents.
     - Transcribe: is a speech-to-text service.
     - Translate: is a language tranlation service.
+  - Demo: Using Amazon Transcribe
+  
