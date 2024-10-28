@@ -66,6 +66,7 @@
   - Migration and Transfer Exam Tips
 ## Artifical Intelligence, Machine Learning, and Analytics Technology and Services
   - Amazon Redshift and Redshift Serverless
+    - Amazon fully managed Datawarehousing solution, designed for OLAP (Online analytical processing)
   - What is Amazon Kinesis？
     - Kinesis Stream: enables you to collect, process, and analyze streaming data in real time.
   - Exploring Kinesis Data Firehose
