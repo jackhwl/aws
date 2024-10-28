@@ -92,3 +92,6 @@
     - Builds conversational chatbots
   - Demo: Using Amazon Polly
     - Deep Learning: Add natural sounding speech to your applications
+  - Introducing Amazon Comprehend
+    - Uses NLP to process text
+    - Sentiment Analysis
