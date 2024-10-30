@@ -68,11 +68,11 @@
   - Amazon Redshift and Redshift Serverless
     - Amazon fully managed Datawarehousing solution, designed for OLAP (Online analytical processing)
   - What is Amazon Kinesis？
-    - Kinesis Stream: enables you to collect, process, and analyze streaming data in real time.
+    - Kinesis Stream: enables you to collect, process, and analyze streaming data （data or video) in real time.
   - Exploring Kinesis Data Firehose
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
   - What is Amazon Athena?
-  - Demo: Using Athena to Query Data
+  - Demo: Using Athena to Query Data次的
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
   - Exploring AWS Data Exchange
