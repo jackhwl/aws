@@ -74,7 +74,12 @@
     - Kinesis Data Streams: capture and store streaming video and data.
     - Kinesis Data Firehose: captures, transforms, and loads data continuously into data stores.∂
   - What is Amazon Athena?
-  - Demo: Using Athena to Query Data次的
+    - A Service for querying data in S3
+      - An interactive query service
+      - Serverless， nothing to provision，pay per query/paer TB scanned
+      - No need for complex ETL processes
+      - Works directly with data stored on S3
+  - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
   - Exploring AWS Data Exchange
