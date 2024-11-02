@@ -72,7 +72,7 @@
   - Exploring Kinesis Data Firehose
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
     - Kinesis Data Streams: capture and store streaming video and data.
-    - Kinesis Data Firehose: captures, transforms, and loads data continuously into data stores.∂
+    - Kinesis Data Firehose: captures, transforms, and loads data continuously into data stores.
   - What is Amazon Athena?
     - A Service for querying data in S3
       - An interactive query service
@@ -82,6 +82,10 @@
   - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
+    - Serverless data preparation and integration service
+    - Discovers and catalogs your data
+    - Performs ETL
+    - prepare your data for analytics and ML
   - Exploring AWS Data Exchange
   - Understanding Amazon Elastic Map Reduce (EMR)
   - What is Amazon OpenSearch？
