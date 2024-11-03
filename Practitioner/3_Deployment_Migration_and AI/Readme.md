@@ -87,7 +87,10 @@
     - Performs ETL
     - prepare your data for analytics and ML
   - Exploring AWS Data Exchange
+    - Data Product
   - Understanding Amazon Elastic Map Reduce (EMR)
+    - EMR is a Big Data Platform
+    - Fully managed big data solution
   - What is Amazon OpenSearch？
     - Elasticsearch Service
     - Fully managed Elasticsearch Service
