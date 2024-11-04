@@ -100,10 +100,15 @@
       - Build real-time data streaming pipelines
       - Process streams of events from hundreds of event sources
       - Data consumers read the data and process it in the order it was produced
+    - Kenesis vs MSK both handle streaming data
   - Understanding Amazon QuickSight
     - Business analytics service
   - Machine Learning With Amazon SageMaker
     - A Fully Managed ML Platform
+    - import and prepare your data
+    - build your model
+    - train your model using optimized infrastructure
+    - Deploy your model
   - What is Amazon Kendra?
     - An Intelligent Search Service
   - Understanding Amazon Lex
