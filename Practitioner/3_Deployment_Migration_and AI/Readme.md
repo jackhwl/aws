@@ -96,7 +96,10 @@
     - Fully managed Elasticsearch Service
   - Exploring Managed Streaming for Apache Kafka （Amazon MSK）
     - What is Apache Kafka？
+      - widely used open-source technology
       - Build real-time data streaming pipelines
+      - Process streams of events from hundreds of event sources
+      - Data consumers read the data and process it in the order it was produced
   - Understanding Amazon QuickSight
     - Business analytics service
   - Machine Learning With Amazon SageMaker
