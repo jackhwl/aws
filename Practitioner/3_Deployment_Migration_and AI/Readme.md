@@ -118,6 +118,7 @@
     - Simple Fact-Based: Who, what, where?
     - Descriptive: How do I return a faulty item?
   - Understanding Amazon Lex
+    - Lex allows you to build conversational interfaces in your applications using natural language models.
     - Builds conversational chatbots
   - Demo: Using Amazon Polly
     - Deep Learning: Add natural sounding speech to your applications
