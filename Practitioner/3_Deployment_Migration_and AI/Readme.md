@@ -111,6 +111,12 @@
     - Deploy your model
   - What is Amazon Kendra?
     - An Intelligent Search Service
+    - Add Custom Search: users can search based on your data
+    - Query: Natural Language Processing
+    - Data Source: S3, FSx, RDS, databases, GitHub, Google Drive
+    - Data Types: Unstructured or semi-structured
+    - Simple Fact-Based: Who, what, where?
+    - Descriptive: How do I return a faulty item?
   - Understanding Amazon Lex
     - Builds conversational chatbots
   - Demo: Using Amazon Polly
