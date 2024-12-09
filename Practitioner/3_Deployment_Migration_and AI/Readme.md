@@ -53,6 +53,15 @@
     - CodeArtifact
     - Decouple
   - Development, Messageing, and Deployment Exam Tips - Part 2
+    - SQS
+    - Standard vs FIFO
+    - Short Polling vs Long Polling
+    - SES vs SNS
+    - EventBridge
+    - Step Function
+    - CloudFormation
+    - ElasticBeanstalk
+    - X-Ray
 ## Migration and Transfer Technology and Services
   - Introducting the AWS Snow Family
     - Snowball 10TB
