@@ -47,6 +47,11 @@
     - load template replacinng load configuration
   - Demo: Using X-Ray to Identify Performance Issues
   - Development, Messageing, and Deployment Exam Tips - Part 1
+    - CI/CD
+    - SNS
+    - CloudShell, CLI, Cloud 9
+    - CodeArtifact
+    - Decouple
   - Development, Messageing, and Deployment Exam Tips - Part 2
 ## Migration and Transfer Technology and Services
   - Introducting the AWS Snow Family
