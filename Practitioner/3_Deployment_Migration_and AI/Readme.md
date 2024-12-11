@@ -75,6 +75,7 @@
     - Review
   - Exploring the AWS Transfer Family
     - SFTP, AS2, FTPS, FTP
+    - Review
   - AWS DataSync
   - Understanding AWS Application Discovery Service
   - Introducing AWS Application Migration Service
