@@ -78,6 +78,7 @@
     - Review
   - AWS DataSync
   - Understanding AWS Application Discovery Service
+    - Review
   - Introducing AWS Application Migration Service
   - Discovering AWS MIgration Hub
   - Migration and Transfer Exam Tips
