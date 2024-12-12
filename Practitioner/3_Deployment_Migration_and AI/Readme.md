@@ -81,6 +81,7 @@
     - Review
   - Introducing AWS Application Migration Service
   - Discovering AWS MIgration Hub
+    - Review
   - Migration and Transfer Exam Tips
 ## Artifical Intelligence, Machine Learning, and Analytics Technology and Services
   - Amazon Redshift and Redshift Serverless
