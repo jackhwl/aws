@@ -83,6 +83,8 @@
   - Discovering AWS MIgration Hub
     - Review
   - Migration and Transfer Exam Tips
+    - Application discovery, migration, db migration
+    - Review
 ## Artifical Intelligence, Machine Learning, and Analytics Technology and Services
   - Amazon Redshift and Redshift Serverless
     - Amazon fully managed Datawarehousing solution, designed for OLAP (Online analytical processing)
