@@ -91,6 +91,7 @@
     - Review
   - What is Amazon Kinesis？
     - Kinesis Stream: enables you to collect, process, and analyze streaming data （data or video) in real time.
+    - Review
   - Exploring Kinesis Data Firehose
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
     - Kinesis Data Streams: capture and store streaming video and data.
