@@ -109,6 +109,7 @@
     - Discovers and catalogs your data
     - Performs ETL
     - prepare your data for analytics and ML
+    - Review
   - Exploring AWS Data Exchange
     - Data Product
   - Understanding Amazon Elastic Map Reduce (EMR)
