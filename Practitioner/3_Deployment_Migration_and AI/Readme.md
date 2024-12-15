@@ -116,6 +116,7 @@
   - Understanding Amazon Elastic Map Reduce (EMR)
     - EMR is a Big Data Platform
     - Fully managed big data solution
+    - Review
   - What is Amazon OpenSearch？
     - Elasticsearch Service
     - Fully managed Elasticsearch Service
