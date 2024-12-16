@@ -120,6 +120,7 @@
   - What is Amazon OpenSearch？
     - Elasticsearch Service
     - Fully managed Elasticsearch Service
+    - Review
   - Exploring Managed Streaming for Apache Kafka （Amazon MSK）
     - What is Apache Kafka？
       - widely used open-source technology
