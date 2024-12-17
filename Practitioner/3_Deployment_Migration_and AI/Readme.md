@@ -128,6 +128,7 @@
       - Process streams of events from hundreds of event sources
       - Data consumers read the data and process it in the order it was produced
     - Kenesis vs MSK both handle streaming data
+    - Review
   - Understanding Amazon QuickSight
     - Business analytics service
   - Machine Learning With Amazon SageMaker
