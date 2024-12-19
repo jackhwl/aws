@@ -138,6 +138,7 @@
     - build your model
     - train your model using optimized infrastructure
     - Deploy your model
+    - Review
   - What is Amazon Kendra?
     - An Intelligent Search Service
     - Add Custom Search: users can search based on your data
