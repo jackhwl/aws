@@ -151,6 +151,7 @@
   - Understanding Amazon Lex
     - Lex allows you to build conversational interfaces in your applications using natural language models.
     - Builds conversational chatbots
+    - Review
   - Demo: Using Amazon Polly
     - Deep Learning: Add natural sounding speech to your applications
   - Introducing Amazon Comprehend
