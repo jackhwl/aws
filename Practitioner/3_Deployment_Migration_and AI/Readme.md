@@ -154,6 +154,7 @@
     - Review
   - Demo: Using Amazon Polly
     - Deep Learning: Add natural sounding speech to your applications
+    - Review
   - Introducing Amazon Comprehend
     - Uses NLP to process text
     - Sentiment Analysis
