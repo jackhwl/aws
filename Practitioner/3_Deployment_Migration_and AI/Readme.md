@@ -158,6 +158,7 @@
   - Introducing Amazon Comprehend
     - Uses NLP to process text
     - Sentiment Analysis
+    - Review
   - Amazon Textract, Amazon Transcribe, and Amazon Translate
     - Textract: extracts information from documents.
     - Transcribe: is a speech-to-text service.
