@@ -163,6 +163,7 @@
     - Textract: extracts information from documents.
     - Transcribe: is a speech-to-text service.
     - Translate: is a language tranlation service.
+    - Review
   - Demo: Using Amazon Transcribe
   - Demo: Amazon Rekognition in Action
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 1
