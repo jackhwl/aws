@@ -165,6 +165,7 @@
     - Translate: is a language tranlation service.
     - Review
   - Demo: Using Amazon Transcribe
+    - Review
   - Demo: Amazon Rekognition in Action
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 1
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 2
