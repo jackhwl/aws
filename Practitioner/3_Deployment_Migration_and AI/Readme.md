@@ -167,5 +167,6 @@
   - Demo: Using Amazon Transcribe
     - Review
   - Demo: Amazon Rekognition in Action
+    - Review
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 1
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 2
