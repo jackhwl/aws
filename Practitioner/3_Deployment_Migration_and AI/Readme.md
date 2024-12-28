@@ -169,4 +169,5 @@
   - Demo: Amazon Rekognition in Action
     - Review
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 1
+    - Review
   - Artificial Intelligence, Machine Learning, and Analytics Exam Tips - Part 2
