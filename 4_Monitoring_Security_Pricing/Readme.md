@@ -2,3 +2,15 @@
   - Introducing Monitoring and Logging on AWS
   - Exploring Amazon CloudWatch and AWS CloudTrail
   - Demo: Getting to Know CloudWatch Dashboards
+  - Managing Many Resoources on AWS
+    - Tag: sort & visulize cloud resources on AWS
+    - System Manager: on AWS, on premises, on other cloud platforms, allows you to track resource groups and perform automated actions. 
+      - System Manager Parameter Store can securely store sensitive data
+        - Passwords
+        - Database strings
+        - License Keys
+  - Monitoring Service Health and Best Practices
+    - AWS Health
+      - Dashboard
+      - API
+    - Trusted Advisor
