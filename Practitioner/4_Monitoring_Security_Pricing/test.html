@@ -1,0 +1,68 @@
+<html>
+<body>
+<pre>
+
+
+    Pseudocode
+If the tree is empty, return.
+Initialize a queue and add the root node.
+While the queue is not empty:
+Initialize an empty list for the current level.
+For each node in the current queue:
+Dequeue the node.
+Add its value to the current level list.
+If the node has a left child, enqueue it.
+If the node has a right child, enqueue it.
+Print the current level.
+
+How It Works
+Queue: A queue (queue) is used to traverse the tree level by level.
+Outer While Loop: The loop runs while there are nodes in the queue.
+Inner For Loop: This processes all nodes at the current level, ensuring we process one level before moving to the next.
+Print Levels: After processing each level, the values of that level are printed.
+</pre>
+<script>
+    class TreeNode {
+  constructor(value = 0, left = null, right = null) {
+    this.value = value;
+    this.left = left;
+    this.right = right;
+  }
+}
+
+function levelOrderTraversal(root) {
+  if (!root) return; // If the tree is empty, exit
+
+  const queue = [root]; // Initialize the queue with the root node
+  console.log(queue.length);
+  while (queue.length > 0) {
+    const levelSize = queue.length; // Number of nodes at the current level
+    const currentLevel = []; // Array to store the current level nodes
+
+    for (let i = 0; i < levelSize; i++) {
+      const node = queue.shift(); // Dequeue the front node
+      currentLevel.push(node.value); // Add the node's value to the current level
+
+      // Enqueue left and right children if they exist
+      if (node.left) queue.push(node.left);
+      if (node.right) queue.push(node.right);
+    }
+
+    // Print the current level
+    console.log(currentLevel.join(" "));
+  }
+}
+
+// Example Usage
+// Constructing the binary tree from the example
+const root = new TreeNode(1);
+root.left = new TreeNode(2);
+root.right = new TreeNode(3);
+root.left.left = new TreeNode(4);
+root.left.right = new TreeNode(5);
+root.right.left = new TreeNode(6);
+
+// Performing level order traversal
+levelOrderTraversal(root);
+
+</script>
