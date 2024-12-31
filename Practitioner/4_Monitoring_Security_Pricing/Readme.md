@@ -14,3 +14,6 @@
       - Dashboard
       - API
     - Trusted Advisor
+  - Understanding Auditing on AWS
+  - Identifying Business and End User Services
+
