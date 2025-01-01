@@ -16,4 +16,4 @@
     - Trusted Advisor
   - Understanding Auditing on AWS
   - Identifying Business and End User Services
-
+  - Auditing, Monitoring, and Logging Exam Tips
