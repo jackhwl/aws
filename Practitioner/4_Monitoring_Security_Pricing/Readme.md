@@ -24,5 +24,7 @@
     - Trusted Advisor
     - Review
   - Understanding Auditing on AWS
+    - AWS Config is the backbone of configuration auditing on AWS
+    - Audit Manager and The Well-Architected Tool help you assess your AWS resources to archive best practices and compliance standards
   - Identifying Business and End User Services
   - Auditing, Monitoring, and Logging Exam Tips
