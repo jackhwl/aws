@@ -22,6 +22,7 @@
       - Dashboard
       - API
     - Trusted Advisor
+    - Review
   - Understanding Auditing on AWS
   - Identifying Business and End User Services
   - Auditing, Monitoring, and Logging Exam Tips
