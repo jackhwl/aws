@@ -27,4 +27,7 @@
     - AWS Config is the backbone of configuration auditing on AWS
     - Audit Manager and The Well-Architected Tool help you assess your AWS resources to archive best practices and compliance standards
   - Identifying Business and End User Services
+    - Amazon Connect: call center service in the cloud
+    - Amazon WorkSpaces: managed desktop virtualization service
+    - Amazon AppStream: convert your existing desktop applications into a cloud-based application, SaaS for employees or end users
   - Auditing, Monitoring, and Logging Exam Tips
