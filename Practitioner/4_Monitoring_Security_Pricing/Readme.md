@@ -9,7 +9,7 @@
       - Sustainability
   - Exploring Amazon CloudWatch and AWS CloudTrail
   - Demo: Getting to Know CloudWatch Dashboards
-  - Managing Many Resoources on AWS
+  - Managing Many Resources on AWS
     - Tag: sort & visulize cloud resources on AWS
     - System Manager: on AWS, on premises, on other cloud platforms, allows you to track resource groups and perform automated actions. 
       - System Manager Parameter Store can securely store sensitive data
@@ -31,3 +31,5 @@
     - Amazon WorkSpaces: managed desktop virtualization service
     - Amazon AppStream: convert your existing desktop applications into a cloud-based application, SaaS for employees or end users
   - Auditing, Monitoring, and Logging Exam Tips
+## Security, Compliance, and Governance
+  - Security: The Bigger Picture
