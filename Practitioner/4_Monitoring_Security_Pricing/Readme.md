@@ -33,3 +33,4 @@
   - Auditing, Monitoring, and Logging Exam Tips
 ## Security, Compliance, and Governance
   - Security: The Bigger Picture
+  - What Do We Need to Secure on AWS?
