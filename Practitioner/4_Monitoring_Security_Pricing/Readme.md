@@ -31,6 +31,7 @@
     - Amazon WorkSpaces: managed desktop virtualization service
     - Amazon AppStream: convert your existing desktop applications into a cloud-based application, SaaS for employees or end users
   - Auditing, Monitoring, and Logging Exam Tips
+  - Review
 ## Security, Compliance, and Governance
   - Security: The Bigger Picture
   - What Do We Need to Secure on AWS?
