@@ -34,4 +34,5 @@
   - Review
 ## Security, Compliance, and Governance
   - Security: The Bigger Picture
+    - Security and Compliance 30%
   - What Do We Need to Secure on AWS?
