@@ -39,10 +39,14 @@
       - AWS: Security of the cloud
       - Customer: Security in the cloud
   - What Do We Need to Secure on AWS?
-    - Customer Responsibility 
+    - Customer Responsibility for security of the cloud
       - Customer Data
       - Platform, Applications, Identity and Access Management
       - Operating System, Network and Firewall Configuration
       - Client-Side Data Encryption & Data Integrity Authentication
       - Server-Side Encryption (File System and/or Data)
       - Newworking Traffic Protection (Encryption, Integrity, Identity)
+    - AWS Responsibility for security in the cloud
+      - EC2 You are responsible for the security and OS patches
+      - RDS Aws offloads responsibility for security and OS patches
+    
