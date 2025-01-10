@@ -39,3 +39,10 @@
       - AWS: Security of the cloud
       - Customer: Security in the cloud
   - What Do We Need to Secure on AWS?
+    - Customer Responsibility 
+      - Customer Data
+      - Platform, Applications, Identity and Access Management
+      - Operating System, Network and Firewall Configuration
+      - Client-Side Data Encryption & Data Integrity Authentication
+      - Server-Side Encryption (File System and/or Data)
+      - Newworking Traffic Protection (Encryption, Integrity, Identity)
