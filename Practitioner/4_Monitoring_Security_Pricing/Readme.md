@@ -36,4 +36,6 @@
   - Security: The Bigger Picture
     - Security and Compliance 30%
     - Shared Responsibility Model
+      - AWS: Security of the cloud
+      - Customer: Security in the cloud
   - What Do We Need to Secure on AWS?
