@@ -35,4 +35,5 @@
 ## Security, Compliance, and Governance
   - Security: The Bigger Picture
     - Security and Compliance 30%
+    - Shared Responsibility Model
   - What Do We Need to Secure on AWS?
