@@ -54,3 +54,8 @@
     - IAM: Identity and Access Management, and it allows you to assign granular permissions to users, groups, and roles
   - What is IAM?
   - Keeping Secrets Safe
+  - Exploring Network Security Services
+    - Amazon Firewall Manager
+      - Network FIrewall
+      - WAF: sql injection, cross site scripting
+      - Shield
