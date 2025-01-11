@@ -53,3 +53,4 @@
     - the Principle of Least Privilege: 
     - IAM: Identity and Access Management, and it allows you to assign granular permissions to users, groups, and roles
   - What is IAM?
+  - Keeping Secrets Safe
