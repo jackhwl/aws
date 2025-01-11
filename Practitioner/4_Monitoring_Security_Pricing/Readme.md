@@ -55,7 +55,17 @@
   - What is IAM?
   - Keeping Secrets Safe
   - Exploring Network Security Services
-    - Amazon Firewall Manager
+    - AWS Firewall Manager
       - Network FIrewall
       - WAF: sql injection, cross site scripting
       - Shield
+  - What is Security Hub?
+    - Security Hub
+      - Firewall Manager
+      - Guard Duty
+      - Inspector
+      - Macie
+      - System Manager
+      - Config
+      - IAM Access Analyzer
+      - AWS Health
