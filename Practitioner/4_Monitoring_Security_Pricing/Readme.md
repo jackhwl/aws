@@ -70,3 +70,10 @@
       - IAM Access Analyzer
       - AWS Health
   - Demo: Exploring Security Hub
+  - Responding to Security Events
+    - AWS Trusted Advisor: provides best practice advice
+    - Amazon GuardDuty: intelligently detect active threats by analyzing logs such as CloudTrail like dog
+    - Amazon Detective: investigates security events that have already happened
+    - Amazon Inspector: detects software and network (workload) vulnerabilities (continuously scan compute workload such as EC2)
+
+     
