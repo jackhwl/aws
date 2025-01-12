@@ -76,4 +76,6 @@
     - Amazon Detective: investigates security events that have already happened
     - Amazon Inspector: detects software and network (workload) vulnerabilities (continuously scan compute workload such as EC2)
   - Growing Your Security Muscles
-     
+  - Governing Multiple Accounts on AWS
+    - AWS Organizations
+    - AWS Control Tower: helps you manage your organization and automates guardrails
