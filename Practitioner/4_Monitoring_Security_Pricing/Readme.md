@@ -82,3 +82,32 @@
   - Understanding Compliance on AWS
     - AWS Artifact: enables you to download security and compliance documents to share with regulators or inform architectural decisions.
     - not all AWS services are in scope for all compliance programs.
+  - Security, Compliance, and Governance Exam Tips
+    - core tenant
+      - Identity and Access Management
+      - Data Stewardship and Encryption
+      - Network Security
+      - Application Security
+      - Compliance
+      - Security Management
+    - your rresponsibility
+      - Access Management least
+      - Operating System & Networking within your AWS account
+      - Encryption
+      - Managed Services
+        - EC2 you are responsible for security and OS patches
+        - RDS AWS offloads responsibility for security and OS patches
+      - The Priciple of Least Privilege
+        - IAM Role: IAM User, IAM Policies
+        - IAM Identity Center: allows AWS users to leverage SSO to temporarily assume a role each time they log in
+        - Encryption At Rest
+          - S3, Macies
+          - KMS, EBS, RDS
+        - Encryption in Transit
+        - Parameter Store (System Manager)
+        - Secrets Manager: adds another layer of security by allowing automatic rotation of your secrets
+        - AWS Firewall Manager
+          - Network Firewll: protect network
+          - AWS WAF: protect web application
+          - AWS Shield: protect against DDoS attacks
+        - Security Hub
