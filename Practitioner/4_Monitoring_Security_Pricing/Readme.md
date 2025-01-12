@@ -79,3 +79,6 @@
   - Governing Multiple Accounts on AWS
     - AWS Organizations
     - AWS Control Tower: helps you manage your organization and automates guardrails
+  - Understanding Compliance on AWS
+    - AWS Artifact: enables you to download security and compliance documents to share with regulators or inform architectural decisions.
+    - not all AWS services are in scope for all compliance programs.
