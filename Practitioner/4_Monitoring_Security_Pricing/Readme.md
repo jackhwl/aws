@@ -69,3 +69,4 @@
       - Config
       - IAM Access Analyzer
       - AWS Health
+  - Demo: Exploring Security Hub
