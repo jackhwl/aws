@@ -54,6 +54,7 @@
   - Illustrating the Principle of Least Privilege
     - the Principle of Least Privilege: 
     - IAM: Identity and Access Management, and it allows you to assign granular permissions to users, groups, and roles
+    - Review
   - What is IAM?
   - Keeping Secrets Safe
   - Exploring Network Security Services
