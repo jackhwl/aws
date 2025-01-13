@@ -46,10 +46,11 @@
       - Operating System, Network and Firewall Configuration
       - Client-Side Data Encryption & Data Integrity Authentication
       - Server-Side Encryption (File System and/or Data)
-      - Newworking Traffic Protection (Encryption, Integrity, Identity)
+      - Networking Traffic Protection (Encryption, Integrity, Identity)
     - AWS Responsibility for security in the cloud
       - EC2 You are responsible for the security and OS patches
       - RDS Aws offloads responsibility for security and OS patches
+    - Review
   - Illustrating the Principle of Least Privilege
     - the Principle of Least Privilege: 
     - IAM: Identity and Access Management, and it allows you to assign granular permissions to users, groups, and roles
