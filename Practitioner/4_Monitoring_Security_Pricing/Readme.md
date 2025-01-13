@@ -38,6 +38,7 @@
     - Shared Responsibility Model
       - AWS: Security of the cloud
       - Customer: Security in the cloud
+    - Review
   - What Do We Need to Secure on AWS?
     - Customer Responsibility for security of the cloud
       - Customer Data
