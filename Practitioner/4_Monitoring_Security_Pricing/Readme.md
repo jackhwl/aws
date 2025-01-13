@@ -56,6 +56,9 @@
     - IAM: Identity and Access Management, and it allows you to assign granular permissions to users, groups, and roles
     - Review
   - What is IAM?
+    - IAM Roles: access keys automatically rotate by design
+    - IAM Access Analyzer: 
+    - IAM Policy Simulator: 
   - Keeping Secrets Safe
   - Exploring Network Security Services
     - AWS Firewall Manager
