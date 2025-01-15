@@ -87,7 +87,9 @@
       - IAM Access Analyzer
       - AWS Health
   - Demo: Exploring Security Hub
+    - Security Hub help you find and prioritize security events.
   - Responding to Security Events
+    - The Four Hoursemen of Security Confusion
     - AWS Trusted Advisor: provides best practice advice
     - Amazon GuardDuty: intelligently detect active threats by analyzing logs such as CloudTrail like dog
     - Amazon Detective: investigates security events that have already happened
