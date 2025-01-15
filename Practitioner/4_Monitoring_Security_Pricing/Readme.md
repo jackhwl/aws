@@ -70,10 +70,12 @@
     - Systems Manager Parameter Store
     - Secrets Manager: automatic rotate the secret
   - Exploring Network Security Services
+    - Network Access Control Lists (NACLs) provide statless access control in your VPCs and subnets.
+    - Security Groups: provide stateful access control for particular resources.
     - AWS Firewall Manager
       - Network FIrewall
-      - WAF: sql injection, cross site scripting
-      - Shield
+      - WAF: protect you web applications from common exploits, sql injection, cross site scripting
+      - AWS Shield
   - What is Security Hub?
     - Security Hub
       - Firewall Manager
