@@ -60,6 +60,15 @@
     - IAM Access Analyzer: 
     - IAM Policy Simulator: 
   - Keeping Secrets Safe
+    - Encryption At Rest 
+      - S3
+        - S3 server-side encryped by default upon creation 
+        - Amazon Macie: searches your S3 buckets for PII (personally identifiable information)
+      - Elastic Block Store: EBS is the storage service for most EC2, use KMS to encryp
+      - RDS: create a copy of it use KMS upon creation
+    - Encryption in Transit
+    - Systems Manager Parameter Store
+    - Secrets Manager: automatic rotate the secret
   - Exploring Network Security Services
     - AWS Firewall Manager
       - Network FIrewall
