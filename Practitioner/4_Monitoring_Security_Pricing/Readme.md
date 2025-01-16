@@ -141,3 +141,4 @@
           - AWS WAF: protect web application
           - AWS Shield: protect against DDoS attacks
         - Security Hub
+    - Security, Compliance, and Governance Quiz
