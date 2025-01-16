@@ -70,7 +70,7 @@
     - Systems Manager Parameter Store
     - Secrets Manager: automatic rotate the secret
   - Exploring Network Security Services
-    - Network Access Control Lists (NACLs) provide statless access control in your VPCs and subnets.
+    - Network Access Control Lists (NACLs) provide stateless access control in your VPCs and subnets.
     - Security Groups: provide stateful access control for particular resources.
     - AWS Firewall Manager
       - Network FIrewall
@@ -91,13 +91,19 @@
   - Responding to Security Events
     - The Four Hoursemen of Security Confusion
     - AWS Trusted Advisor: provides best practice advice
-    - Amazon GuardDuty: intelligently detect active threats by analyzing logs such as CloudTrail like dog
+    - Amazon GuardDuty: intelligently detect (ML) active threats by analyzing logs such as CloudTrail like dog
     - Amazon Detective: investigates security events that have already happened
     - Amazon Inspector: detects software and network (workload) vulnerabilities (continuously scan compute workload such as EC2)
   - Growing Your Security Muscles
   - Governing Multiple Accounts on AWS
-    - AWS Organizations
+    - AWS Organizations: 
+      - Administer multiple AWS accounts from a single point, consolidating cost while organizing and limiting access to resources.
+      - Config rules detect noncompliant resources across your ogranization.
+      - Service Control Polices prevent actions across your organization.
     - AWS Control Tower: helps you manage your organization and automates guardrails
+      - Automate account creation and the application of best-practice config rules and SCPs.
+    - Security Hub can integrate with organizations to centralize security alerts and compliance status across multiple account.
+    - Review
   - Understanding Compliance on AWS
     - AWS Artifact: enables you to download security and compliance documents to share with regulators or inform architectural decisions.
     - not all AWS services are in scope for all compliance programs.
