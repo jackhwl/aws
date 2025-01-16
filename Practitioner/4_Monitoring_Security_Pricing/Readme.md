@@ -105,8 +105,13 @@
     - Security Hub can integrate with organizations to centralize security alerts and compliance status across multiple account.
     - Review
   - Understanding Compliance on AWS
+    - Security and Compliance is a shared responsibility, but demonstrating compliance in the cloud is ultimately the customer's responsibility.
     - AWS Artifact: enables you to download security and compliance documents to share with regulators or inform architectural decisions.
-    - not all AWS services are in scope for all compliance programs.
+    - Audit Manager
+    - Security Token Service
+    - not all AWS services are in scope for all compliance programs. 
+    - be aware of how to transfer data or store security keys in highly regulated industries.(snowball edge, cloudhms)
+    - Review
   - Security, Compliance, and Governance Exam Tips
     - core tenant
       - Identity and Access Management
