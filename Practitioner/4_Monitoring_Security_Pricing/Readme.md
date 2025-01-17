@@ -150,3 +150,10 @@
     - Stop Guessing Capacity
     - Economise of Scale
     - Opportunity Cost and the Cloud
+  - Optimizing the Cost of Compute
+    - Reserved instances (RI)
+      - Standard Reserved Instance (RI)
+      - Convertible Reserved Instance (RI)
+      - Scheduled Reserved Instances (RI)
+    - Spot instances
+    - Compute Optimizer: right-size your EC2 instances
