@@ -180,3 +180,6 @@
     - Cost Explorer: Project and monitor actual cloud cost
     - Cost and Usage Reports: Analyze detailed historical cost data
   - Demo: Setting a Budget Alert in Your AWS Account
+  - Managing Costs in a Multi-Account environment
+    - AWS Organizations: provides consolidated billing.
+    - Billing Conductor: create billing groups
