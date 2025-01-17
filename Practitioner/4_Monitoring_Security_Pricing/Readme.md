@@ -174,3 +174,8 @@
   - Understanding Data Transfer Costs
     - Inbound: to the AWS is free
     - data transfer within AWS changes depending on whether you are sending data across AZ's or Regions
+  - Monitoring and Predicting Costs on AWS
+    - Pricing Calculator: Access your potential cloud costs
+    - AWS Budgets: Setup cost safety nets before you start to build, receive alerts when you defined thresholds are breached.
+    - Cost Explorer: Project and monitor actual cloud cost
+    - Cost and Usage Reports: Analyze detailed historical cost data
