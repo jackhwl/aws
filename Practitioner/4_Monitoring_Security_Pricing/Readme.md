@@ -157,3 +157,13 @@
       - Scheduled Reserved Instances (RI)
     - Spot instances
     - Compute Optimizer: right-size your EC2 instances
+  - Understanding Data Storage Costs
+    - S3 Storage Classes
+      - S3 Standard
+      - S3 Standard-IA
+      - S3 One Zone-IA
+      - S3 Express One Zone
+      - Glacier Flexible Retrieval
+      - Glacier Deep Archive
+      - Glacier Instant Retrieval
+      - ![S3 Storage Classes](./S3_Storage.png)
