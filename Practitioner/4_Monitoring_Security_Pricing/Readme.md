@@ -171,3 +171,6 @@
     - S3 Intelligent Tiering
     - S3 Storage Lens
       - examine your S3 buckets organization-wide to inspect access patterns and provide storage optimization recommendations
+  - Understanding Data Transfer Costs
+    - Inbound: to the AWS is free
+    - data transfer within AWS changes depending on whether you are sending data across AZ's or Regions
