@@ -183,3 +183,5 @@
   - Managing Costs in a Multi-Account environment
     - AWS Organizations: provides consolidated billing.
     - Billing Conductor: create billing groups
+  - Monitoring The Cost of Resource Groups
+    - Tags
