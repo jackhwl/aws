@@ -167,3 +167,7 @@
       - Glacier Deep Archive
       - Glacier Instant Retrieval
       - ![S3 Storage Classes](./S3_Storage.png)
+    - S3 Lifecycle Configuration
+    - S3 Intelligent Tiering
+    - S3 Storage Lens
+      - examine your S3 buckets organization-wide to inspect access patterns and provide storage optimization recommendations
