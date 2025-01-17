@@ -142,3 +142,11 @@
           - AWS Shield: protect against DDoS attacks
         - Security Hub
     - Security, Compliance, and Governance Quiz
+## Pricing, Billing, and Support
+  - Cloud Costs: The Bigger Picture: 12% of test
+    - Total Cost of Ownership (TCO)
+    - Six Advantages of Cloud Computing 
+    - Fixed vs. Variable Expense
+    - Stop Guessing Capacity
+    - Economise of Scale
+    - Opportunity Cost and the Cloud
