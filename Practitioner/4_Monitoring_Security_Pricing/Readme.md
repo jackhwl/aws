@@ -120,7 +120,7 @@
       - Application Security
       - Compliance
       - Security Management
-    - your rresponsibility
+    - your responsibility
       - Access Management least
       - Operating System & Networking within your AWS account
       - Encryption
@@ -185,3 +185,9 @@
     - Billing Conductor: create billing groups
   - Monitoring The Cost of Resource Groups
     - Tags
+  - Seeking Support From AWS
+    - Basic
+    - Developer support
+    - business support plan: is the lowest cost to achieve phone and chat support and the full set of Trusted Advisor checks.
+    - Enterprise On-Ramp:
+    - Enterprise support is needed for concierge-like billing assistance and guidance from Technical Account Managers.
