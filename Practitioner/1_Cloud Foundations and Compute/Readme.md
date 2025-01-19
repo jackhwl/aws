@@ -5,6 +5,27 @@
 ## Foundations of Cloud Computing
   - Getting your head in the Cloud
   - Introducing Cloud Computing and Deployment Models
+    - Six cloud computing advantages:
+      - Global in Minutes
+      - No Data Center spend
+      - Economies of Scale
+      - Speed and Agility
+      - Stop Guessing Capacity
+      - CapEx for Variable Expense
+    - Benefits:
+      - High availability
+      - Elasticity
+      - Agility
+      - Durability
+    - Cloud computing Models
+      - IaaS: Provides the building blocks of computing infrastructure, such as Virtual machines, storage, and networking. 
+        - AWS EC2, Amazon S3, Amazon VPC, Elastic Load Balanceing ELB, Azure VMs
+      - PaaS: Provides a platform for building, testing, and deploying applications without managing the infrastructure
+        - Development and deployment platforms: AWS Lambda (FaaS), Amazon RDS, AWS Elastic Beanstalk, AWS Fargate
+      - SaaS: delivers Fully managed software applications over the internet.
+        - Gmail, Amazon QuickSight, AWS Backup, Amazon Connect, Amazon WorkSpaces
+    - private, public, hybrid cloud
+    - Review
   - Exploring Regioins and Availability Zones
   - Reviewing Edge Locations and Local Zones
   - Introducing the Frameworks
