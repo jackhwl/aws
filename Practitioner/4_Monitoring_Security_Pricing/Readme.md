@@ -196,3 +196,5 @@
     - AWS Managed Services
     - AWS Professional Services
     - AWS Activate
+  - Pricing, Billing and Support Exam Tips
+    - 12%
