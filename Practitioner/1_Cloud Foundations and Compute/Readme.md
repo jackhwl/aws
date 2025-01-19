@@ -27,6 +27,13 @@
     - private, public, hybrid cloud
     - Review
   - Exploring Regioins and Availability Zones
+    - Regions:
+      - US East:
+        - Ohio: (us-east-2) Zone
+          - multiple data centers
+        - N.Virginia (us-east-1) Zone
+      - US West,
+    - Review
   - Reviewing Edge Locations and Local Zones
   - Introducing the Frameworks
   - Meeting the AWS Management Console and Accessing AWS
