@@ -8,6 +8,10 @@
       - Reliability 
       - Sustainability
   - Exploring Amazon CloudWatch and AWS CloudTrail
+    - CloudWatch: Monitoring and observability
+      - metrics, logs, alarms
+    - CloudTrail: Governance, compliance and auditing, tracking API activity
+      - API activity logs
   - Demo: Getting to Know CloudWatch Dashboards
   - Managing Many Resources on AWS
     - Tag: sort & visulize cloud resources on AWS
@@ -160,7 +164,7 @@
   - Understanding Data Storage Costs
     - S3 Storage Classes
       - S3 Standard
-      - S3 Standard-IA
+      - S3 Standard-IA (Infrequent Access)
       - S3 One Zone-IA
       - S3 Express One Zone
       - Glacier Flexible Retrieval

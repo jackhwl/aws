@@ -35,10 +35,13 @@
       - US West,
     - Review
   - Reviewing Edge Locations and Local Zones
+    - Local Zone: is an extension of a Region enabling things like real-time gaming.
+    - Edge Location: CDN place content closer to users.
+    - Review
   - Introducing the Frameworks
   - Meeting the AWS Management Console and Accessing AWS
     - Root User
-    - The AWS Command Line Interface (CLIj)
+    - The AWS Command Line Interface (CLI)
   - Demo： Exploring Your Amazon Web Services （AWS） Account
     - Setup Root User MFA
     - IAM User Account ID: 186549181985
