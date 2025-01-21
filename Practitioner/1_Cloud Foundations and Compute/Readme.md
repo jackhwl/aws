@@ -40,8 +40,9 @@
     - Review
   - Introducing the Frameworks
   - Meeting the AWS Management Console and Accessing AWS
-    - Root User
+    - Root User 
     - The AWS Command Line Interface (CLI)
+    - Review
   - Demo： Exploring Your Amazon Web Services （AWS） Account
     - Setup Root User MFA
     - IAM User Account ID: 186549181985
