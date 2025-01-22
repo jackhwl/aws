@@ -67,6 +67,9 @@
     - Review
   - Demo： Exploring Compute Services - EC2 in Action
   - Containers: The Bigger Picture
+    - ECS
+    - EKS
+    - Review
   - Serveless Services: The Bigger Picture
     - Lambda: < 15 Minutes
       - Real-Time File Processing
