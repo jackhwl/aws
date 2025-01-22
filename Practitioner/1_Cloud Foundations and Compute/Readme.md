@@ -56,6 +56,7 @@
     - Dedicated Hosts
     - Reserved Instances
     - Saving Plans
+    - Review
   - Reviewing EC2 Features
     - Load Balancing 
       - Classic， Application， Gateway， Network
