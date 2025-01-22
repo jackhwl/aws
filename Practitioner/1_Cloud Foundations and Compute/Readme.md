@@ -59,44 +59,45 @@
     - Review
   - Reviewing EC2 Features
     - Load Balancing 
-      - Classic， Application， Gateway， Network
+      - Classic， Application 7， Gateway， Network 4
     - Auto Scaling
     - Compute Optimizer
       - horizoontal scaling
       - vertical scaling
-    - Demo： Exploring Compute Services - EC2 in Action
-    - Containers: The Bigger Picture
-    - Serveless Services: The Bigger Picture
-      - Lambda: < 15 Minutes
-        - Real-Time File Processing
-        - Sending Email Notifications
-        - Backend Business Logic
-      - Fargate: > 15 Minutes
-        - Message-Driven Workloads
-        - Event-Driven and Scheduled Workloads
-    - Understanding Serverless Services Pricing and Features
-      - Lambda Pricing 15min,3min, 1 million free amount requests a month
-      - Fargate 
-    - Demo: Exploring Compute Services - Lambda in Action
-    - Create a Lambda Function Using the AWS Management Console
-    - Introducting Additional Compute Services
-      - Outposts
-      - Lightsail
-      - Batch
-      - Wavelength
-    - Compute Technology and Services Exam Tips
-      - Scaling Types and Benefits
-        - Horizontal: scale out, cross AZs
-        - Vertical: scale up
-      - Load Balancer Types
-        - Classic
-        - Gateway
-        - Application
-        - Network
-      - ECS vs EKS
-      - Fargate: 
-        - serverless containers
-        - no upfront costs, pay only for resources used.
-      - Lambda: 
-        - 1 million free requests a moonth
-        - 15 minutes timeout
+    - Review
+  - Demo： Exploring Compute Services - EC2 in Action
+  - Containers: The Bigger Picture
+  - Serveless Services: The Bigger Picture
+    - Lambda: < 15 Minutes
+      - Real-Time File Processing
+      - Sending Email Notifications
+      - Backend Business Logic
+    - Fargate: > 15 Minutes
+      - Message-Driven Workloads
+      - Event-Driven and Scheduled Workloads
+  - Understanding Serverless Services Pricing and Features
+    - Lambda Pricing 15min,3min, 1 million free amount requests a month
+    - Fargate 
+  - Demo: Exploring Compute Services - Lambda in Action
+  - Create a Lambda Function Using the AWS Management Console
+  - Introducting Additional Compute Services
+    - Outposts
+    - Lightsail
+    - Batch
+    - Wavelength
+  - Compute Technology and Services Exam Tips
+    - Scaling Types and Benefits
+      - Horizontal: scale out, cross AZs
+      - Vertical: scale up
+    - Load Balancer Types
+      - Classic
+      - Gateway
+      - Application
+      - Network
+    - ECS vs EKS
+    - Fargate: 
+      - serverless containers
+      - no upfront costs, pay only for resources used.
+    - Lambda: 
+      - 1 million free requests a moonth
+      - 15 minutes timeout
