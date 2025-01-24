@@ -62,7 +62,7 @@
       - Classic， Application 7， Gateway， Network 4
     - Auto Scaling
     - Compute Optimizer
-      - horizoontal scaling
+      - horizontal scaling
       - vertical scaling
     - Review
   - Demo： Exploring Compute Services - EC2 in Action
@@ -89,10 +89,11 @@
     - Review
   - Create a Lambda Function Using the AWS Management Console
   - Introducting Additional Compute Services
-    - Outposts
-    - Lightsail
-    - Batch
-    - Wavelength
+    - Outposts: run AWS service on prim, support hybrid deployment models
+    - Lightsail: a compute service used to quickly launch small projects, quick deployment of a small temporary test environment
+    - Batch: processes large workloads in smaller batches.
+    - Wavelength: allows users to reach application servers without leaving the 5G mobile network
+    - Review
   - Compute Technology and Services Exam Tips
     - Scaling Types and Benefits
       - Horizontal: scale out, cross AZs

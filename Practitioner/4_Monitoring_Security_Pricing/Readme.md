@@ -77,7 +77,7 @@
     - Network Access Control Lists (NACLs) provide stateless access control in your VPCs and subnets.
     - Security Groups: provide stateful access control for particular resources.
     - AWS Firewall Manager
-      - Network FIrewall
+      - Network Firewall
       - WAF: protect you web applications from common exploits, sql injection, cross site scripting
       - AWS Shield
   - What is Security Hub?
