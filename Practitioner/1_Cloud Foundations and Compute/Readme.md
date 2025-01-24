@@ -78,6 +78,8 @@
     - Fargate: > 15 Minutes
       - Message-Driven Workloads
       - Event-Driven and Scheduled Workloads
+      - used to manage containers.
+    - Review
   - Understanding Serverless Services Pricing and Features
     - Lambda Pricing 15min,3min, 1 million free amount requests a month
     - Fargate 
