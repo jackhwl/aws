@@ -75,6 +75,7 @@
       - Real-Time File Processing
       - Sending Email Notifications
       - Backend Business Logic
+      - Can be triggered by events
     - Fargate: > 15 Minutes
       - Message-Driven Workloads
       - Event-Driven and Scheduled Workloads
@@ -85,6 +86,7 @@
     - Fargate 
     - Review
   - Demo: Exploring Compute Services - Lambda in Action
+    - Review
   - Create a Lambda Function Using the AWS Management Console
   - Introducting Additional Compute Services
     - Outposts
