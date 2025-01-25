@@ -26,8 +26,9 @@
     - Review
   - Creating S3 Buckets with Versioning and Encryption
   - Introducing Additional Storage Services
-    - FSx: fully managed windoows file system
+    - FSx: fully managed windows file system
     - Elastic Disaster Recoovery
+    - Review
   - Amazon Elastic Block Store(EBS)
     - Persistent Storage
     - Highly Available and Durable
