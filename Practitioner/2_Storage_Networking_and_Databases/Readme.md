@@ -1,8 +1,10 @@
 ## Storage Technoloogy and Services
   - Exploring Amazon EC2 Storage
-    - EBS: Elastic Block Store
-    - EFS: Elastic File System
-    - Instance Stores
+    - EBS: Elastic Block Store: block-level storage used with EC2 instances
+    - EFS: Elastic File System across multiple EC2 instances
+    - Instance Stores: ephemeral, temporary block-level storage directly attached to the instances
+    - EBS & EFS offer durable storage solution compare with Instance Store which is ephemeral.
+    - Review
   - Amazon Simple Storage Service (S3): The Bigger Picture
     - durability
     - scalability
