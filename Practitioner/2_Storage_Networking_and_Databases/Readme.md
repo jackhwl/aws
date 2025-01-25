@@ -22,6 +22,8 @@
     - Glacier Deep Archive
     - Review
   - Demo: Exploring Storage Services -S3 in Action
+    - Bucket Naming: global unique
+    - Review
   - Creating S3 Buckets with Versioning and Encryption
   - Introducing Additional Storage Services
     - FSx: fully managed windoows file system
