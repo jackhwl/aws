@@ -20,6 +20,7 @@
     - Glacier Instant Retrieval
     - Glacier Flexible Retrieval
     - Glacier Deep Archive
+    - Review
   - Demo: Exploring Storage Services -S3 in Action
   - Creating S3 Buckets with Versioning and Encryption
   - Introducing Additional Storage Services
