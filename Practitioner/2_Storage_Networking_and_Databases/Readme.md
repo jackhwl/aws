@@ -11,6 +11,7 @@
     - security
     - versatility
     - data, key, metadata
+    - Review
   - Exploring S3 Storage Classes
     - Standard
     - Intelligent-Tiering
