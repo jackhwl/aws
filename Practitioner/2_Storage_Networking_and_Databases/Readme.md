@@ -43,11 +43,12 @@
         - Throughput Optimized HDD
         - Cold HDD
     - Review
-  - AWS Storage Gateway
+  - AWS Storage Gateway: a hybrid storage service
     - S3 File Gateway
     - Volume Gateway
     - Tape Gateway
     - FSx File Gateway
+    - Review
   - Overview of AWS Backup
 ## Content Delivery and Networking Technology and Services
   - Amazon CloudFront: use edge locations to cache contents
