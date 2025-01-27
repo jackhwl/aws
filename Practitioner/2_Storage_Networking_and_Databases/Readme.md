@@ -27,7 +27,7 @@
   - Creating S3 Buckets with Versioning and Encryption
   - Introducing Additional Storage Services
     - FSx: fully managed windows file system
-    - Elastic Disaster Recoovery
+    - Elastic Disaster Recovery
     - Review
   - Amazon Elastic Block Store(EBS)
     - Persistent Storage
@@ -50,6 +50,8 @@
     - FSx File Gateway
     - Review
   - Overview of AWS Backup
+    - automated & centralized data protection.
+    - Review
 ## Content Delivery and Networking Technology and Services
   - Amazon CloudFront: use edge locations to cache contents
   - Content Delivery: The Bigger Picture
