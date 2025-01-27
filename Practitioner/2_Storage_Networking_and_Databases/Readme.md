@@ -42,6 +42,7 @@
       - HDD
         - Throughput Optimized HDD
         - Cold HDD
+    - Review
   - AWS Storage Gateway
     - S3 File Gateway
     - Volume Gateway
