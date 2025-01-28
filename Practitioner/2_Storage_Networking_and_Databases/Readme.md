@@ -57,6 +57,7 @@
   - Content Delivery: The Bigger Picture
     - Review
   - AWS Global Accelerator: use edge locations to find an optimal pathway to the nearest regional endpoint
+    - Review
   - Networking: The Bigger Picture
     - Amazon VPC
       - Public subnet
