@@ -68,6 +68,7 @@
       - Network access control list (NACL): stateless, subnet level
     - Review
   - Demo: Exploring Networking Services - VPC in Action
+    - Review
   - DNS: The Bigger Picture
     - Amazon Route 53
   - Applying Hybird Models with Networking Services
