@@ -71,6 +71,10 @@
     - Review
   - DNS: The Bigger Picture
     - Amazon Route 53
+      - Traffic routing
+      - private DNS in VPC
+      - Domain Registration and management
+      - Review
   - Applying Hybird Models with Networking Services
     - AWS Direct Connect
     - AWS VPN
