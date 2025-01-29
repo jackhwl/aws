@@ -82,6 +82,12 @@
       - Client VPN
     - Review
   - Content Delivery and Networking Exam Tips
+    - CloufFrond CDN
+    - Global Accelerator
+    - VPC
+    - Route 53 DNS
+    - VPN vs Direct Connect
+    - Review
   - Content Delivery and Networking Technology and Services Quiz
 ## Database Technology and Services
   - Databases: The Bigger Picture
