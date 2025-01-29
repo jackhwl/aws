@@ -64,16 +64,17 @@
       - Private subnet
       - Internet Gateways
       - Route Tables
-      - Security Group: stateful
-      - Network access control list (NACL): stateless
-    - Demo: Exploring Networking Services - VPC in Action
-    - DNS: The Bigger Picture
-      - Amazon Route 53
-    - Applying Hybird Models with Networking Services
-      - AWS Direct Connect
-      - AWS VPN
-        - Site-to-Site VPN
-        - Client VPN
+      - Security Group: stateful, instance level
+      - Network access control list (NACL): stateless, subnet level
+    - Review
+  - Demo: Exploring Networking Services - VPC in Action
+  - DNS: The Bigger Picture
+    - Amazon Route 53
+  - Applying Hybird Models with Networking Services
+    - AWS Direct Connect
+    - AWS VPN
+      - Site-to-Site VPN
+      - Client VPN
     - Content Delivery and Networking Exam Tips
     - Content Delivery and Networking Technology and Services Quiz
 ## Database Technology and Services
