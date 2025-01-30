@@ -100,6 +100,7 @@
       - Amazon MemoryDB for Redis
     - Graph Databases
       - Amazon Neptune: Fraud Detection, Recommendation systems, Drug Discovery
+    - Review
   - Understanding AWS Database Migration Services
     - AWS Database Migration Service (DMS)
     - AWS Schema Conversion Tool (SCT)
