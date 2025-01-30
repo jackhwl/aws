@@ -107,6 +107,7 @@
     - Review
   - Amazon DynamoDB
     - Web Apps, Gaming, IOT
+    - Review
   - Overview of Memory-Based Databases in AWS
    - Amazon MemoryDB for Redis
      - Performance
