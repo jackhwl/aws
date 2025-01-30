@@ -94,7 +94,7 @@
     - Relational Databases:
       - Amazon RDS
     - NoSQL Databases
-      - DynamoDB
+      - DynamoDB: low latance
     - In-Memory Databases
       - Amazon ElastiCache
       - Amazon MemoryDB for Redis
