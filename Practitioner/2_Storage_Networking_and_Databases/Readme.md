@@ -104,6 +104,7 @@
   - Understanding AWS Database Migration Services
     - AWS Database Migration Service (DMS)
     - AWS Schema Conversion Tool (SCT)
+    - Review
   - Amazon DynamoDB
     - Web Apps, Gaming, IOT
   - Overview of Memory-Based Databases in AWS
