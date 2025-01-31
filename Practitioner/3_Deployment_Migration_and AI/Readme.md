@@ -17,6 +17,8 @@
     - CLI
     - Review
   - Demo： Using AWS Cloud9
+    - browser based IDE
+    - Review
   - Understanding AWS CodeArtifact
     - Central Artifact Repository
   - Decoupling Application Components
