@@ -13,6 +13,9 @@
     - aws s3 cp file.txt s3://jackbucket-9196657416
     - aws s3 ls s3://jackbucket-9196657416
     - aws s3 mb help
+    - CloudShell
+    - CLI
+    - Review
   - Demo： Using AWS Cloud9
   - Understanding AWS CodeArtifact
     - Central Artifact Repository
