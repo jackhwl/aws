@@ -21,6 +21,7 @@
     - Review
   - Understanding AWS CodeArtifact
     - Central Artifact Repository
+    - Review
   - Decoupling Application Components
     - Coupling
     - Tight Coupling
