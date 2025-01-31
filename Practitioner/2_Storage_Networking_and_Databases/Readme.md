@@ -1,4 +1,4 @@
-## Storage Technoloogy and Services
+## Storage Technology and Services
   - Exploring Amazon EC2 Storage
     - EBS: Elastic Block Store: block-level storage used with EC2 instances
     - EFS: Elastic File System across multiple EC2 instances

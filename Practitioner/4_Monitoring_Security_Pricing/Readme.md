@@ -141,7 +141,7 @@
         - Parameter Store (System Manager)
         - Secrets Manager: adds another layer of security by allowing automatic rotation of your secrets
         - AWS Firewall Manager
-          - Network Firewll: protect network
+          - Network Firewall: protect network
           - AWS WAF: protect web application
           - AWS Shield: protect against DDoS attacks
         - Security Hub
