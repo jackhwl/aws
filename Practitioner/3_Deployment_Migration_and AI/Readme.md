@@ -27,9 +27,10 @@
     - Tight Coupling
     - Loose Coupling
     - Microservices
-      - SQS
-      - SNS
+      - SQS: simple queue service
+      - SNS: simple notification service
       - EventBridge
+    - Review
   - Introducing Amazon Simple Notification Service (SNS)
     - SMS text message or email
     - A Pub-sub Model
