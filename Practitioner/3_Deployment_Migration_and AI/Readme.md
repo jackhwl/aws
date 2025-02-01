@@ -32,9 +32,10 @@
       - EventBridge
     - Review
   - Introducing Amazon Simple Notification Service (SNS)
-    - SMS text message or email
+    - allows you to send or push notifications: SMS text message or email
     - A Pub-sub Model
     - A topic is an access point, allowing subscribers to receive notifications.
+    - Review
   - Introducing Amazon Simple Queue Service (SQS)
     - SQS is pull-based
     - Multiple components can add and consume messages.
