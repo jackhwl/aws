@@ -41,6 +41,7 @@
     - Multiple components can add and consume messages.
     - Messages are processed asynchronously.
     - Guaranteed to be processed at least once.
+    - Review
   - Standard and FIFO Queues
   - Short Polling vs Long Polling 
   - What is Amazon simple Email Service (SES)?
