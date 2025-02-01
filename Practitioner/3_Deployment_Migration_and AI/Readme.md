@@ -43,7 +43,9 @@
     - Guaranteed to be processed at least once.
     - Review
   - Standard and FIFO Queues
+    - Review
   - Short Polling vs Long Polling 
+    - Review
   - What is Amazon simple Email Service (SES)?
     - richly formatted HTML emails vs SNS (plain text emails)
   - Introducting Amazon EvenBridge
