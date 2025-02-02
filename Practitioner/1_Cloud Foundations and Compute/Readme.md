@@ -108,5 +108,5 @@
       - serverless containers
       - no upfront costs, pay only for resources used.
     - Lambda: 
-      - 1 million free requests a moonth
+      - 1 million free requests a month
       - 15 minutes timeout
