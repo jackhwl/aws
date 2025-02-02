@@ -63,7 +63,8 @@
     - Manage, configure, and provision your AWS infrastructure as code.
     - Review
   - What is AWS Elastic Beanstalk?
-    - Deploys and scales your web applications
+    - Deploys and scales your web applications, provisioons the AWS resources for you
+    - Review
   - Demo: Deploying an Application Using Elastic Beanstalk
     - load template replacinng load configuration
   - Demo: Using X-Ray to Identify Performance Issues
