@@ -61,6 +61,7 @@
     - Review
   - Deploying Infrastructure as Code with AWS CloudFormation
     - Manage, configure, and provision your AWS infrastructure as code.
+    - Review
   - What is AWS Elastic Beanstalk?
     - Deploys and scales your web applications
   - Demo: Deploying an Application Using Elastic Beanstalk
