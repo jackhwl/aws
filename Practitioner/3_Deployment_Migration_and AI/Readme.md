@@ -69,6 +69,9 @@
     - load template replacing load configuration
     - Review
   - Demo: Using X-Ray to Identify Performance Issues
+    - X-Ray service map provides an end-to-end view of requests as they travel through your application,
+      the information can be used to troubleshoot connectivity and performance issues.
+    - Review
   - Development, Messageing, and Deployment Exam Tips - Part 1
     - CI/CD
     - SNS
