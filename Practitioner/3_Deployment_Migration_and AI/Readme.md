@@ -57,6 +57,8 @@
     - Scheduled events let us schedule an action in advance, e.g. run a process once a week or month.
     - Review
   - Understanding Step functions
+    - visualize, automate, logging
+    - Review
   - Deploying Infrastructure as Code with AWS CloudFormation
     - Manage, configure, and provision your AWS infrastructure as code.
   - What is AWS Elastic Beanstalk?
