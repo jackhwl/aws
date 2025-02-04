@@ -88,7 +88,7 @@
   - Demo: Exploring Compute Services - Lambda in Action
     - Review
   - Create a Lambda Function Using the AWS Management Console
-  - Introducting Additional Compute Services
+  - Introducing Additional Compute Services
     - Outposts: run AWS service on prem, support hybrid deployment models
     - Lightsail: a compute service used to quickly launch small projects, quick deployment of a small temporary test environment
     - Batch: processes large workloads in smaller batches.
