@@ -137,7 +137,7 @@
     - Discovers and catalogs your data
     - Performs ETL
     - prepare your data for analytics and ML
-    - Review
+    - Review 2
   - Exploring AWS Data Exchange
     - Data Product
     - Review
