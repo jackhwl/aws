@@ -129,6 +129,7 @@
       - Serverless， nothing to provision，pay per query/paer TB scanned
       - No need for complex ETL processes
       - Works directly with data stored on S3
+      - Review
   - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
