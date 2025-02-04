@@ -122,6 +122,7 @@
     - Capture, transform, and load data streams into AWS data stores to enable near real-time analytics with BI tools
     - Kinesis Data Streams: capture and store streaming video and data.
     - Kinesis Data Firehose: captures, transforms, and loads data continuously into data stores.
+    - Review
   - What is Amazon Athena?
     - A Service for querying data in S3
       - An interactive query service
