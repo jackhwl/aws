@@ -101,7 +101,7 @@
     - Review 2
   - Exploring the AWS Transfer Family
     - SFTP, AS2, FTPS, FTP
-    - Review
+    - Review 2
   - AWS DataSync
   - Understanding AWS Application Discovery Service
     - Review
