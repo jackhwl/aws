@@ -107,6 +107,8 @@
   - Understanding AWS Application Discovery Service
     - Review 2
   - Introducing AWS Application Migration Service
+    - Automated Lift-and-Shift
+    - Review
   - Discovering AWS MIgration Hub
     - Review
   - Migration and Transfer Exam Tips
