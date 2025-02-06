@@ -109,8 +109,8 @@
   - Introducing AWS Application Migration Service
     - Automated Lift-and-Shift
     - Review
-  - Discovering AWS MIgration Hub
-    - Review
+  - Discovering AWS Migration Hub
+    - Review 2
   - Migration and Transfer Exam Tips
     - Application discovery, migration, db migration
     - Review
@@ -132,7 +132,7 @@
       - Serverless， nothing to provision，pay per query/paer TB scanned
       - No need for complex ETL processes
       - Works directly with data stored on S3
-      - Review
+      - Review 2
   - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
   - Introducing AWS Glue
