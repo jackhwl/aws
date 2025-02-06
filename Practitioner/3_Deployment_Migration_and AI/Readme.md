@@ -94,7 +94,7 @@
     - Snowball 10TB
     - Snowball Edge 10TB+process
     - Snowmobile 10PB
-    - Snowcone 14TB
+    - Snowcone up to 14TB
     - Review 2
   - Identifying Database Migration Tools
     - AWS Database Migration Service (AWS DMS)
@@ -135,6 +135,7 @@
       - Review 2
   - Demo: Using Athena to Query Data
     - [create table](https://github.com/pluralsight-cloud/AWS-Certified-Cloud-Practitioner-CCP-CLF-C02/tree/main/Athena_Demo)
+    - Review
   - Introducing AWS Glue
     - Serverless data preparation and integration service
     - Discovers and catalogs your data
