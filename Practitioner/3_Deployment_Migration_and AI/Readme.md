@@ -144,7 +144,7 @@
     - Review 2
   - Exploring AWS Data Exchange
     - Data Product
-    - Review
+    - Review 2
   - Understanding Amazon Elastic Map Reduce (EMR)
     - EMR is a Big Data Platform
     - Fully managed big data solution
