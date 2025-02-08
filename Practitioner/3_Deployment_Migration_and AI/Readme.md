@@ -163,7 +163,7 @@
     - Review 2
   - Understanding Amazon QuickSight
     - Business analytics service
-    - Review
+    - Review 2
   - Machine Learning With Amazon SageMaker
     - A Fully Managed ML Platform
     - import and prepare your data
