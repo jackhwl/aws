@@ -179,7 +179,7 @@
     - Data Types: Unstructured or semi-structured
     - Simple Fact-Based: Who, what, where?
     - Descriptive: How do I return a faulty item?
-    - Review
+    - Review 2
   - Understanding Amazon Lex
     - Lex allows you to build conversational interfaces in your applications using natural language models.
     - Builds conversational chatbots
