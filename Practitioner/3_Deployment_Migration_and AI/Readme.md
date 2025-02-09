@@ -159,7 +159,7 @@
       - Build real-time data streaming pipelines
       - Process streams of events from hundreds of event sources
       - Data consumers read the data and process it in the order it was produced
-    - Kenesis vs MSK both handle streaming data
+    - Kinesis vs MSK both handle streaming data
     - Review 2
   - Understanding Amazon QuickSight
     - Business analytics service
@@ -186,7 +186,7 @@
     - Review 2
   - Demo: Using Amazon Polly
     - Deep Learning: Add natural sounding speech to your applications
-    - Review
+    - Review 2
   - Introducing Amazon Comprehend
     - Uses NLP to process text
     - Sentiment Analysis
