@@ -5,3 +5,5 @@
     - Reivew
   - Question Breakdown: Security and Compliance 30%
     - Review
+  - Question Breakdown: Cloud Technology and Services 34%
+    - Review
