@@ -2,3 +2,6 @@
   - Preparing for the Exam
     - Review
   - Question Breakdown: Cloud Concepts. 24%
+    - Reivew
+  - Question Breakdown: Security and Compliance 30%
+    - Review
