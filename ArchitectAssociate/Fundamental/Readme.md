@@ -14,4 +14,11 @@
     - Storage: S3, EBS, EFS, FSx, Storage Gateway
     - Databases: RDS, DynamoDB, Redshift
     - Networking: VPCs, Direct Connect, Route 53, API Gateway, AWS Global Accelerator
-    
+  - What is the Well-Architected Framework?
+    - https://aws.amazon.com/whitepapers
+    - Operational Excellence: runing and monitoring systems to deliver business value, and continually improving processes and procedures
+    - Performance Efficiency: using IT and computing resources efficiently
+    - Security
+    - Cost Optimization
+    - Reliability: Ensuring a workload performs its intended function correctly and consistently when it's expected to
+    - Sustainability
