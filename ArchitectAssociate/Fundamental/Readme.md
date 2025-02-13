@@ -26,3 +26,5 @@
   - AWS Fundamentals Exam Tips
 ### Identity and Access Management (IAM)
   - Securing the Root Account 
+  - Controlling Users Actions with IAM Policy Documents
+    - Assign Permissions using IAM Policy Documents consiting of JSON
