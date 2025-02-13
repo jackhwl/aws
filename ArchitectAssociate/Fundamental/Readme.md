@@ -2,8 +2,8 @@
 ### AWS Fundamentals
   - The Building Blocks of AWS: Availability Zones and Regions
     - A Region: have more AZ
-    - An AZ: have data centers
-    - Edge locations: endpoint foor caching content, consist oof CloudFront (CDN)
+    - An AZ: have more data centers
+    - Edge locations: endpoint foor caching content, consist of CloudFront (CDN)
       - A networking point of presence that is one of many spread across the globe that is commonly used to cache content.
   - Who Owns What in the Cloud
     - Can you do this yourself in the AWS Management Console?
@@ -24,3 +24,5 @@
     - Reliability: Ensuring a workload performs its intended function correctly and consistently when it's expected to
     - Sustainability
   - AWS Fundamentals Exam Tips
+### Identity and Access Management (IAM)
+  - Securing the Root Account 
