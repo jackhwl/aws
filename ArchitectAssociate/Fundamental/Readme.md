@@ -28,3 +28,11 @@
   - Securing the Root Account 
   - Controlling Users Actions with IAM Policy Documents
     - Assign Permissions using IAM Policy Documents consiting of JSON
+  - Permanent IAM Credentials
+    - IAM is Universal
+    - IAM Federation
+    - Identity Federation
+    - Users, Groups, Roles
+      - new user without group assign no permission to do anyting in aws management console, only action is change password
+      - Access Key 
+      - Identity provider
