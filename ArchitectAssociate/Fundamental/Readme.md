@@ -33,6 +33,7 @@
     - IAM Federation
     - Identity Federation
     - Users, Groups, Roles
-      - new user without group assign no permission to do anyting in aws management console, only action is change password
+      - new user without group assign no permission to do anything in aws management console, only action is change password
       - Access Key 
       - Identity provider
+    - IAM Exam Tips
