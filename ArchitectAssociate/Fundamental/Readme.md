@@ -37,3 +37,10 @@
       - Access Key 
       - Identity provider
     - IAM Exam Tips
+### Vitual Private Cloud (VPC) Networking
+  - VPC Overview
+    - a virtual data center in the cloud
+    - fully customizable network
+    - CIDR.xyz
+    - consists of internet gateway, route tables, network access controls lists, subnets, and security groups
+    - 1 subnet is always in 1 availablity zone
