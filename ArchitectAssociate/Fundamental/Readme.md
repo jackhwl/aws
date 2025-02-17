@@ -44,3 +44,4 @@
     - CIDR.xyz
     - consists of internet gateway, route tables, network access controls lists, subnets, and security groups
     - 1 subnet is always in 1 availablity zone
+  - Demo: Provisioning a VPC Part 1
