@@ -46,3 +46,4 @@
     - 1 subnet is always in 1 availablity zone
   - Demo: Provisioning a VPC Part 1
   - Demo: Provisioning a VPC Part 2
+  - Using NAT Gateways for Internet Access
