@@ -48,3 +48,4 @@
   - Demo: Provisioning a VPC Part 2
   - Using NAT Gateways for Internet Access
   - Protecting Your Resources with Security Groups
+  - Controlling Subnet Traffic with Network ACLs
