@@ -49,3 +49,4 @@
   - Using NAT Gateways for Internet Access
   - Protecting Your Resources with Security Groups
   - Controlling Subnet Traffic with Network ACLs
+  - Private Communication Using VPC Endpoints
