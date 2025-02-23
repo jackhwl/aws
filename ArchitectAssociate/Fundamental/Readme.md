@@ -50,3 +50,5 @@
   - Protecting Your Resources with Security Groups
   - Controlling Subnet Traffic with Network ACLs
   - Private Communication Using VPC Endpoints
+  - Building Solutions across VPCs with Peering
+  
