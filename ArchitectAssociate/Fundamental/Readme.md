@@ -52,3 +52,5 @@
   - Private Communication Using VPC Endpoints
   - Building Solutions across VPCs with Peering
   - Network Privacy with AWS PrivateLink
+  - Securing Your Network with VPN CloudHub
+  
