@@ -53,4 +53,4 @@
   - Building Solutions across VPCs with Peering
   - Network Privacy with AWS PrivateLink
   - Securing Your Network with VPN CloudHub
-  
+  - Connection On-Premises with Direct Connect
