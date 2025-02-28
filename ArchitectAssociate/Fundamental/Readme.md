@@ -55,3 +55,4 @@
   - Securing Your Network with VPN CloudHub
   - Connection On-Premises with Direct Connect
   - Simplifying Networks with Transit Gateway
+  - 5G Networking with AWS Wavelength
