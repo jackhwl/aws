@@ -57,3 +57,5 @@
   - Simplifying Networks with Transit Gateway
   - 5G Networking with AWS Wavelength
   - VPC Networking Exam Tips
+### Elastic Coompute Cloud (EC2)
+  - EC2 Overview
