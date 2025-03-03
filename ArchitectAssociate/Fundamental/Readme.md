@@ -59,3 +59,9 @@
   - VPC Networking Exam Tips
 ### Elastic Coompute Cloud (EC2)
   - EC2 Overview
+    - Pricing Options
+      - On-Demand
+      - Reserved
+      - Spot
+      - Dedicated
+  - Demo: Launching an EC2 Instance
