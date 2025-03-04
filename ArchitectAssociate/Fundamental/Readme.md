@@ -65,3 +65,4 @@
       - Spot
       - Dedicated
   - Demo: Launching an EC2 Instance
+  - AWS Command Line
