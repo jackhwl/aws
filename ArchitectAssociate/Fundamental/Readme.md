@@ -67,3 +67,4 @@
   - Demo: Launching an EC2 Instance
   - AWS Command Line
   - Using Roles
+  - Security Groups and Boostrap Scripts
