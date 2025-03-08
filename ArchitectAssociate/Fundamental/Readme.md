@@ -68,3 +68,4 @@
   - AWS Command Line
   - Using Roles
   - Security Groups and Boostrap Scripts
+  - EC2 Metadata and User Data
