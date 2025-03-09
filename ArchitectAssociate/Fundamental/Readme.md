@@ -70,3 +70,4 @@
   - Security Groups and Boostrap Scripts
   - EC2 Metadata and User Data
   - Networking with EC2
+  - Optimizing with EC2 Placement Groups
