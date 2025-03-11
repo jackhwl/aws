@@ -72,3 +72,4 @@
   - Networking with EC2
   - Optimizing with EC2 Placement Groups
   - Solving Licensing Issues with Dedicated Hosts
+  - Timing Workloads with Spot Instances and Spot Fleets
