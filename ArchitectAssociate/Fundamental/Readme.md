@@ -73,3 +73,4 @@
   - Optimizing with EC2 Placement Groups
   - Solving Licensing Issues with Dedicated Hosts
   - Timing Workloads with Spot Instances and Spot Fleets
+  - Deploying vCenter in AWS with VMware Cloud on AWS
