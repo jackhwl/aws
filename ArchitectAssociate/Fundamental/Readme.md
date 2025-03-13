@@ -74,3 +74,4 @@
   - Solving Licensing Issues with Dedicated Hosts
   - Timing Workloads with Spot Instances and Spot Fleets
   - Deploying vCenter in AWS with VMware Cloud on AWS
+  - Extending AWS Beyond the Cloud with AWS Outposts
