@@ -77,3 +77,5 @@
   - Extending AWS Beyond the Cloud with AWS Outposts
   - EC2 Exam Tips
   - EC2 Instance Bootstrapping
+### Elastic Block Storage（EBS）and Elastic File System (EFS)
+  - EBS Overview
