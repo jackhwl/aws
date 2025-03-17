@@ -79,3 +79,7 @@
   - EC2 Instance Bootstrapping
 ### Elastic Block Storage（EBS）and Elastic File System (EFS)
   - EBS Overview
+    - EBS Volume Types: Solid State Disk 
+      - General Purpose SSD
+        - gp2
+        - gp3
