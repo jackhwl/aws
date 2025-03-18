@@ -83,3 +83,6 @@
       - General Purpose SSD
         - gp2
         - gp3
+      - Provisioned IOPS SSD
+        - io1
+        - io2
