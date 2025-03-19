@@ -86,3 +86,8 @@
       - Provisioned IOPS SSD
         - io1
         - io2
+      - Throughput Optimized HDD
+        - st1
+        - Cold HDD (sc1)
+          - Lowest Cost Option
+          
