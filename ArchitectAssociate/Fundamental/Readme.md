@@ -88,6 +88,8 @@
         - io2
       - Throughput Optimized HDD
         - st1
-        - Cold HDD (sc1)
-          - Lowest Cost Option
-          
+      - Cold HDD (sc1)
+        - Lowest Cost Option
+      - IOPS vs Throughput
+        - IOPS: read & write, io1 or io2
+        - Throughput: read or write, st1
