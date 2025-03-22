@@ -99,3 +99,9 @@
     - The first snapshot will take some time to create. for consistent snapshots, stop the instance and detach the volumn.
     - You can share snapshots between AWS accounts as well as between regions, but first you need to copy that snapshot to the target region.
     - You can resize EBS volumes on the fly as well as changing the volume types.
+  - Protecting EBS Volumes with Encryption
+    - Encrypted Volumes
+      - Data at rest is encrypted inside the volume
+      - All data in flight moving tetween the instance and the volume is encrypted
+      - All snapshots are encrypted
+      - All volumes created from the snapshot are encrypted
