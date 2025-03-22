@@ -105,3 +105,8 @@
       - All data in flight moving tetween the instance and the volume is encrypted
       - All snapshots are encrypted
       - All volumes created from the snapshot are encrypted
+    - How to Encrypt Volumes
+      - Create a snapshot of the unencrypted root device volume
+      - Create a copy of the snapshot and select the encrypt option
+      - Create an AMI from the encrypted snapshot
+      - Use that AMI to launch new encrypted instances.
