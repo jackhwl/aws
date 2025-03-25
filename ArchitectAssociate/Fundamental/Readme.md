@@ -112,3 +112,7 @@
       - Use that AMI to launch new encrypted instances.
   - EC2 Hibernation
   - EFS Overview
+  - FSx for Windows
+    - fully managed native Microsoft Windows file system
+    - FSx for Windows
+    - FXx for Lustre
