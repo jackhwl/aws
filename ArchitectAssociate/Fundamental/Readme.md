@@ -111,4 +111,4 @@
       - Create an AMI from the encrypted snapshot
       - Use that AMI to launch new encrypted instances.
   - EC2 Hibernation
-  
+  - EFS Overview
