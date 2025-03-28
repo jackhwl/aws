@@ -123,3 +123,4 @@
     - EBS-backed instances can be stopped. You will not lose the data on this instance if it is stopped.
     - You can reboot both EBS and instance store volumes and you will not lose your data
     - By default, both root volumes will be deleted on termination. However, with EBS volumes, you can tell AWS to keep the root device volume.
+  - AWS Backup
