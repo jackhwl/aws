@@ -130,3 +130,7 @@
     - Store files in buckets (similar to folders)
     - Universal Namespace
     - Key Value store, Version ID, Metadata 
+  - Securing Your Bucket with S3 Block Public Access
+    - Object ACLs vs. Bucket Policies
+      - Object is individual level
+      - Bucket is bucket level
