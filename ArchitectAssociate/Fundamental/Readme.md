@@ -134,3 +134,4 @@
     - Object ACLs vs. Bucket Policies
       - Object is individual level
       - Bucket is bucket level
+  - Hosting a Static Website Using S3
