@@ -134,4 +134,7 @@
     - Object ACLs vs. Bucket Policies
       - Object is individual level
       - Bucket is bucket level
-  - Hosting a Static Website Using S3
+  - Hosting a Static Website Using S3f
+  - Versioning Objects in S3
+    - Cannot be Disabled: once enabled, versioning cannot be disabled - only suspended.
+    - Supports MFA
