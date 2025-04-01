@@ -138,3 +138,7 @@
   - Versioning Objects in S3
     - Cannot be Disabled: once enabled, versioning cannot be disabled - only suspended.
     - Supports MFA
+  - S3 Storage Classes
+    - S3 Standard-IA
+      - 99.9% Availability
+      - 99.999999999% (11 9's) Durability
