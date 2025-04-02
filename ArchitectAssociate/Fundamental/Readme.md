@@ -142,3 +142,7 @@
     - S3 Standard-IA
       - 99.9% Availability
       - 99.999999999% (11 9's) Durability
+    - S3 One Zone-Infrequent Access
+      - Costs 20% less than S3 Standard-IA
+      - 99.5% Availablility
+      - 99.999999999% (11 9's) Durability
