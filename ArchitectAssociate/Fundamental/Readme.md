@@ -148,3 +148,9 @@
       - 99.999999999% (11 9's) Durability
     - S3 Intelligent-Tiering
       - Frequent and Infrequent Access
+    - 3 Glacier Options
+      - 99.9% Availability
+      - 99.999999999% (11 9's) Durability
+      - Glacier Instant Retrieval
+      - Glacier Flexible Retrieval: up to 12 hours
+      - Glacier Deep Archive: 12 - 48 hours
