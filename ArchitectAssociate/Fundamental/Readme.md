@@ -139,10 +139,12 @@
     - Cannot be Disabled: once enabled, versioning cannot be disabled - only suspended.
     - Supports MFA
   - S3 Storage Classes
+    - all have >= 3 Zones except S3 One Zone-Infrequent Access
     - S3 Standard-IA
       - 99.9% Availability
       - 99.999999999% (11 9's) Durability
     - S3 One Zone-Infrequent Access
+      - non-critical data
       - Costs 20% less than S3 Standard-IA
       - 99.5% Availablility
       - 99.999999999% (11 9's) Durability
