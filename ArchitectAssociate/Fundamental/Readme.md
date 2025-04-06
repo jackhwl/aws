@@ -156,3 +156,7 @@
       - Glacier Instant Retrieval
       - Glacier Flexible Retrieval: up to 12 hours
       - Glacier Deep Archive: 12 - 48 hours
+  - Lifecycle Management with S3
+    - S3 Standard: keep for 30 days
+    - S3 IA: After 30 days
+    - Glacier: After 90 Days
